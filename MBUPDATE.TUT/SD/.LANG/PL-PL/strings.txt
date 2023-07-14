@@ -1,0 +1,469 @@
+3;Bateria słaba
+4;Bateria OK
+5;Naładuj baterię
+6;Początek wiersza
+7;Koniec wiersza
+8;Koniec strony
+9;Błąd ruchu głowicy
+10;Mountbatten Brailler Tutor
+11;Mów znaki
+12;Mów wyrazy
+13;Mów wiersze
+14;Głowica zacięta
+16;Błąd systemowy
+20;Lewy margines
+21;Ładuję
+22;Koniec strony
+25;OK
+29;Tryb jednoręczny
+30;Ogłaszanie opcji
+31;Dzwonek prawego marginesu przełącznik
+32;spacja
+33;wykrzyknik
+34;znak zapytania
+35;znak liczby
+36;dolar
+37;procent
+38;ampersand
+39;apostrof
+40;lewy nawias
+41;prawy nawias
+42;gwiazdka
+43;plus
+44;przecinek
+45;minus
+46;kropka
+47;ukośnik
+48;0
+49;1
+50;2
+51;3
+52;4
+53;5
+54;6
+55;7
+56;8
+57;9
+58;dwukropek
+59;średnik
+60;miejszy niż
+61;równa się
+62;większy niż
+63;znak zapytania
+64;małpa
+65;10
+66;11
+67;12
+68;13
+69;14
+70;15
+71;16
+72;17
+73;18
+74;19
+75;20
+76;Key master
+77;Wyjdź z gry
+78;Wyłącz Mountbatten
+79;Wytłocz informacje o wersji
+80;Zdalne sterowanie
+81;Ustawienia WiFi
+82;Tryb zaawansowany
+83;Zachowaj wszystkie aktualne ustawienia 
+84;Przywróć wszystkie ustawienia
+85;Zaktualizuj Firmware
+86;Zaktualizuj moduł audio
+87;Zaktualizuj moduł wyświetlacza
+88;Zaktualizuj moduł Bluetooth
+89;Tłumaczenie w przód dla wytłaczania przełącznik
+90;Podstawowe tłumaczenie przełącznik
+91;[
+92;Tryb literacki przełącznik
+93;]
+94;Pomiń puste wiersze
+95;Automatyczne wcięcie przełącznik
+96;Usuwanie wielokrotnych spacji przełącznik
+97;Tryb obniżonych ułamków przełącznik
+98;Wprowadzanie wielkich liter przełącznik
+99;Wstawianie łącznika na końcu wiersza przełącznik
+100;Listy włączone
+101;Dźwignia papieru podniesiona
+102;Tabela z dwoma równymi kolumnami
+103;Błąd
+104;Błąd komendy
+105;Bufor wejściowy pełny
+106;Stopień skrótów dla tłumaczenia w tył
+107;Środkowanie przełącznik
+108;Wyrównanie obustronne przełącznik
+109;Wyrównanie do prawej przełącznik
+110;Duże litery przełącznik
+111;Komenda
+112;Zachowaj ustawienia tłumaczenia w tył
+113;Przywróć ustawienia tłumaczenia w tył
+114;Brak papieru
+115;Ostatni wiersz
+116;Wyrównanie do prawej
+117;Wyłączone
+118;Włączone
+119;Pamięć USB
+120;Dzień dobry
+121;Wcięcie
+122;Pomoc
+123;Koniec
+124;Dołącz
+125;Usunięto
+127;Korekcja
+128;Brak plików
+130;Zduplikowany plik
+131;Chroń/nie chroń pliku
+132;Przeformatuj
+133;Wyjdź z edytora
+134;Kierunek wyszukiwania
+135;Rozróżnianie wielkości liter w wyszukiwaniu
+136;Dopasowywanie słów
+137;Wyszukaj tekst
+138;Wyszukaj i zamień tekst
+139;Uruchom ponownie ostatnie wyszukiwanie
+140;Początek bloku
+141;Koniec bloku
+142;Skopiuj blok do pozycji kursora
+143;Przenieś blok do pozycji kursora
+144;Wklej blok w pozycji kursora
+145;Mów blok
+146;Usuń blok
+147;Usuń bieżący znak
+148;Usuń bieżące słowo
+149;Usuń bieżący wiersz
+150;Usuń bieżącą stronę
+151;Usuń poprzedni znak
+152;Usuń do końca słowa
+153;Usuń do końca wiersza
+154;Przywróć ostatnie usunięcie
+155;Rozmiar pliku
+156;Wolne miejsce
+157;Gdzie jestem
+158;Utwórz nowy akapit
+159;Połącz bieżący i następny akapit
+160;Usuń twardy koniec strony
+161;Idź do strony
+162;Wprowadź komendę
+163;
+164;Zasilacz podłączony
+165;Zasilacz odłączony
+166;Bateria wpełni naładowana
+167;Nie ładuję klawiatury
+173;Naciśnij przycisk zasilania, aby wyłączyć Mountbaten'a
+174;Wyłączanie, proszę czekać
+175;Mysz nie obsługiwana
+176;Klawiatura podłączona
+177;Klawiatura odłączona
+178;Menu
+180;Brak podłączonej pamięci USB.
+181;Tryb aktualizacji audio
+182;Proszę zrestartować urządzenie po aktualizacji
+183;Mountbatten Brailler
+184;Polecenie nie zaimplementowane
+185;Klawiatura się nie ładuje.
+186;Ładowanie klawiatury.
+187;Znaleziono dane aktualizacji.
+188;Błąd otwarcia pliku
+190;Głośność maksymalna
+192;Głośność minimalna
+193;Dysk USB nie jest gotowy!
+194;Dysk USB jest chroniony przed zapisem!
+200;Tabulacja
+201;Tabulacja wstecz
+202;spacja
+210;bekspejs
+211;Nowa linia
+212;Korekta
+213;Następny wiersz
+214;Poprzedni wiersz
+215;Wysów strony
+216;Wytłaczanie wstrzymane
+218;Tryb sześciopunktowy
+219;Tryb ośmiopunktowy
+220;Wytłaczanie anulowane
+324;pionowa kreska
+1001;Ogłaszanie znaków
+1002;Ogłaszanie wyrazów
+1003;Ogłaszanie wierszy
+1004;Ogłaszanie zdań
+1005;Plik
+1006;Wyświetlacz
+1007;Język
+1008;System
+1009;Gry
+1010;Wytłaczanie
+1011;Klawiatura
+1012;Mowa
+1013;Ustawienia tłumaczenia w przód
+1014;Ustawienia tłumaczenia w tył
+1015;Format
+1016;Ustawienia strony
+1017;włączone
+1018;wyłączone
+1019;Głośniej
+1020;Ciszej
+1021;Główne menu
+1022;Menu zamknięte
+1023;Wyłącz Mountbatten'a
+1024;Wytłocz informacje o Mountbattenie
+1025;Kontrola zdalna
+1026;Ustawienia WiFi
+1027;Tryb zaawansowany
+1028;Zapisz bieżące ustawienia
+1029;Przywróć zapisane ustawienia
+1030;Zaktualizuj urządzenie
+1031;Tryb jednoręczny
+1032;Opcje mówienia
+1033;Dzwonek prawego marginesu przełącznik
+1034;Ustaw dzwonek końca strony
+1035;Mowa syntetyczna
+1036;Mowa zarejestrowana
+1037;Bez mowy
+1038;Mów tylko komunikaty
+1039;Mów wszystkie klawisze
+1054;Zachowaj ustawienia tłumaczenia w przód
+1055;Przywróć ustawienia tłumaczenia w przód
+1056;Przywróć domyślne ustawienia tłumaczenia w przód
+1057;Włącz/wyłącz tlumaczenie w przód
+1058;Podstawowe tłumaczenie w przód przełącznik
+1059;Stopień skrótów dla tłumaczenia w przód
+1060;Tryb literacki przełącznik
+1061;Ustaw wcięcie
+1062;Pomiń puste wiersze
+1063;Automatyczne wcięcie przełącznik
+1064;Usuń wielokrotne spacje przełącznik
+1065;Tryb ułamkowy przełącznik
+1066;Wprowadzanie dużych liter przełącznik
+1067;Wstaw łącznik na końcu wiersza przełącznik
+1068;Listy włączone
+1069;Listy wyłączone
+1070;Tabela z dwiema kolumnami o równej szerokości
+1071;Wytłaczanie włącz/wyłącz przełącznik
+1072;Zawijaj wyrazy przełącznik
+1073;Polecenia wytłaczania
+1074;Wymuś nową stronę
+1075;Tryb graficzny przełącznik
+1076;Wielokrotne uderzenie na punkt brajlowski
+1077;Tryb szybki przełącznik
+1078;Wspólne ustawienia tłumaczenia
+1079;Tryb UEB przełącznik
+1080;Deweloperzy
+1081;Informacje o urządzeniu
+1082;Nie uruchamiaj modułu zaawansowanego
+1083;Aktualizuj Bootloader
+1084;Ustaw lewy margines
+1085;Ustaw prawy margines
+1086;Ustaw lewy margines w pozycji głowicy tłoczącej
+1087;Ustaw prawy margines w pozycji głowicy tłoczącej
+1088;Resetuj lewy margines
+1089;Resetuj prawy margines
+1090;Ustaw górny margines
+1091;Ustaw dolny margines
+1092;Resetuj górny margines
+1093;Resetuj dolny margines
+1094;Ustaw odstęp między wierszami
+1095;Stopień skrótów dla tłumaczenia w tył
+1096;Wcięcie automatyczne przełącznik
+1097;Wyśrodkuj przełącznik
+1098;wyrównaj obustronnie przełącznik
+1099;Wyrównaj do prawej przełącznik
+1100;Duże litery przełącznik
+1101;Tryb ułamków przełącznik
+1102;Tryb literacki przełącznik
+1103;Usuń wielokrotne spacje przełącznik
+1104;Odstępy między wierszami
+1105;Zachowaj ustawienia tłumaczenia w tył
+1106;Przywróć ustawienia tłumaczenia w tył
+1107;Przywróć domyślne ustawienia tłumaczenia w tył
+1108;Wytłaczanie wyśrodkowane przełącznik
+1109;Wyrównanie prawostronne
+1110;Pamięć wewnętrzna
+1111;Pamięć USB
+1112;Wytłocz...
+1113;Otwórz w edytorze...
+1114;Ustaw bieżącą pamięć...
+1115;Mała czcionka (8 linii)
+1116;Standardowa czcionka (4 linie)
+1117;Duża czcionka (3 linie)
+1118;Otwórz plik
+1119;Nowy plik
+1120;Zapisz
+1121;Zmień nazwę
+1122;Chroń/nie chroń pliku
+1123;Przeformatuj
+1124;Wyjdź z edytora
+1125;Kierunek wyszukiwania
+1126;Rozróżnianie wielkości liter w wyszukiwaniu
+1127;Dopasowywanie słów
+1128;Wyszukaj tekst
+1129;Wyszukaj i zamień tekst
+1130;Uruchom ponownie ostatnie wyszukiwanie
+1131;Początek bloku
+1132;Koniec bloku
+1133;Skopiuj blok w pozycji kursora
+1134;Przenieś blok do pozycji kursora
+1135;Wklej blok w pozycji kursora
+1136;Mów blok
+1137;Usuń blok
+1138;Usuń bieżący znak
+1139;Usuń bieżące słowo
+1140;Usuń bieżący wiersz
+1141;Usuń bieżącą stronę
+1142;Usuń poprzedni znak
+1143;Usuń do końca słowa
+1144;Usuń do końca wiersza
+1145;Przywróć ostatnie usunięcie
+1146;Rozmiar pliku
+1147;Wolne miejsce
+1148;Gdzie jestem
+1149;Utwórz nowy akapit
+1150;
+1151;Usuń twarde podziały stron
+1152;Idź do strony
+1153;Wprowadź komendę
+1154;
+1155;Przywróć ustawienia fabryczne
+1156;Uaktualnij moduł zaawansowany
+1157;Tablice brajlowskie
+1158;Kalendarz
+1159;Data i czas
+1160;Odczyt daty i czasu
+1161;Ustaw datę i czas
+1162;Synchronizuj datę i czas
+1163;Uruchom MB-Comm
+1164;Zakończ MB-Comm
+1165;Mistrz klawiatury
+1166;Sztafeta liter
+1167;Pianino
+1168;Pokaż adres klawiatury
+1169;wybrano
+1170;Ustaw pozycję dzwonka prawego marginesu
+1171;Przywróć ustawienia domyślne
+1172;Rozmiar czcionki
+1173;Wyświetlaj brajl
+1174;Wyświetlaj tekst
+1175;przełącznik
+1176;Tryb uproszczony
+1177;Więcej opcji
+1178;Usuń plik
+1179;Pokaż adres sprzętowy (adres MAC)
+1180;Sieć WiFi
+2000;Klawiatura USB podłączona
+2001;Klawiatura USB odłączona
+2002;Nośnik USB podłączony
+2003;Nośnik USB odłączony
+2004;Mysz USB nie jest obsługiwana
+2005;Klawiatura wyłączona
+2006;Ładowanie klawiatury
+2007;Klawiatura w pełni naładowana.
+2008;Brak podłączonego nośnika USB.
+2009;Włóż nośnik USB zawierający aktualizacje i spróbuj ponownie.
+2010;Proszę czekać
+2011;Aktualizowanie audio
+2012;Aktualizowanie ustawień
+2013;Aktualizowanie wyświetlacza
+2014;Aktualizowanie systemu
+2015;Urządzenie zostanie uruchomione ponownie
+2016;Nośnik USB nie zawiera informacji aktualizacyjnych
+2017;Zasilacz podłączony
+2018;Zasilacz odłączony
+2019;Ładowanie
+2020;Brak ładowania
+2021;Bateria wpełni naładowana
+2022;Menu
+2023;Głośność minimalna
+2024;Głośność maksymalna
+2025;Nie ładuję klawiatury
+2026;Aktualizacja Bootloader
+2027;Klawiatura USB musi być odłączona
+2028;Proszę odłączyć klawiaturę USB
+2029;Ładowanie języka
+2030;Język załadowany
+2031;Utwórz nowy plik
+2032;Dodaj do pliku
+2033;Zamknij bieżący plik
+2034;Wytłaczanie pliku zakończone
+2035;Menu zamknięte
+2036;Prędkość wytłaczania
+2037;Przywracanie ustawień fabrycznych powiodło się.
+2038;Nie udało się przywrócić ustawień fabrycznych.
+2039;Tak
+2040;Nie
+2041;Wszystkie ustawienia użytkownika i pliki zostaną usunięte. Czy jesteś pewien, że chcesz to zrobić
+2042;Ta funkcja wymaga restartu urządzenia. Czy chcesz kontynuować?
+2043;Wprowadź komendę
+2044;Komenda anulowana
+2045;6 punktów
+2046;8 punktów
+2047;Wprowadź nazwę nowego pliku:
+2048;Wprowadź nazwę istniejącego pliku:
+2049;Anulowano tworzenie pliku!
+2050;Anulowano otwieranie pliku
+2051;Początek linii
+2052;Koniec linii
+2053;Koniec strony
+2054;Początek strony
+2055;Nie otwarto żadnego pliku
+2056;Plik otwarty. Proszę zamknąć otwarty plik.
+2057;punkt
+2058;punkty
+2059;Czy na pewno chcesz zaktualizować urządzenie?
+2060;Anulowano aktualizację urządzenia
+2061;Numer seryjny
+2062;Wersja oprogramowania
+2063;Wersja oprogramowania startowego
+2064;Mountbatten Tutor wyłączy się za dwie minuty
+2065;Wyłączanie Mountbatten Tutor
+2066;Nie znaleziono nowszej wersji oprogramowania
+2067;Resetowanie do ustawień fabrycznych anulowane
+2068;Brak plików
+2069;Wydrukuj plik używając translacji
+2070;Wydrukuj plik bez translacji
+2071;Ustawienia wydruku
+2072;Drukuj...
+2200;Angielski
+2201;Hiszpański
+2202;Włoski
+2203;Francuski
+2204;Polski
+2205;Szwedzki
+2206;Norweski
+2207;Niderlandzki
+2208;Portugalski
+2209;Niemiecki
+2300;Wielka Brytania
+2301;Stany Zjednoczone
+2302;Kanada
+2303;Australia
+2304;Hiszpania
+2305;Meksyk
+2306;Argentyna
+2307;Polska
+2308;Holandia
+2309;Portugalia
+2310;Brazylia
+2311;Niemcy
+10000;Szybkość wytłaczania: %u
+10001;Bateria klawiatury: %u%%
+10002;Głośność: %u%%
+90000;ą
+90001;Ą
+90002;ć
+90003;Ć
+90004;ę
+90005;Ę
+90006;ł
+90007;Ł
+90008;ń
+90009;Ń
+90010;ó
+90011;Ó
+90012;ś
+90013;Ś
+90014;ź
+90015;Ź
+90016;ż
+90017;Ż

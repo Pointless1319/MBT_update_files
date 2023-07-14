@@ -1,0 +1,451 @@
+3;Bateria fraca
+4;Bateria OK
+5;Carregue a bateria
+6;Início da linha
+7;Fim da linha
+8;Fim da página
+9;Início da página
+10;Mountbatten Brailler Tutor
+11;Eco de letra
+12;Eco de palavra
+13;Eco de linha
+14;Eco de frase
+16;Erro no sistema
+20;margem esquerda
+21;Carregando
+22;Página final
+25;OK
+29;Modo de uma mão
+30;Eco de opções
+31;Botão de aviso da margem direita
+32;Definir linha de aviso de fim de página
+33;Voz sintetizada
+34;Voz gravada
+35;Sem voz
+36;Falar apenas os comandos
+37;Falar todas as teclas
+38;Botão ligar/desligar da impressora
+39;Quebra de linha
+40;Comandos da impressora
+41;Forçar nova página
+42;Modo de gráficos
+43;Impressão de múltiplos impactos
+44;vírgula
+45;menos
+46;ponto final
+47;barra
+48;0
+49;1
+50;2
+51;3
+52;4
+53;5
+54;6
+55;7
+56;8
+57;9
+58;cólon
+59;ponto e vírgula
+60;menos que
+61;sinal de igual
+62;maior que
+63;ponto de interrogação
+64;em
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+91;Configurar o grau da tradução para Braille
+92;Modo literal
+93;Configurar alinhamento recolhido
+94;Suprimir linhas em branco
+95;Configuração automática de alinhamento
+96;Remover múltiplos espaços
+97;Modo de fracção
+98;Introdução de maiúsculas
+99;Hífens no final da linha
+100;Listas ligadas
+101;Listas desligadas
+102;Tabela com dois iguais e com colunas
+103;Guardar configurações de tradução para Braille
+104;Erro de comando
+105;Memória de armazenamento de Braille cheio
+106;Configurar grau de tradução para Texto
+107;Centrar(BCE)
+108;Justificar(BPJ)
+109;Alinhamento à direita (BRA)
+110;Maiúsculas
+111;Configurar  espaçamento de linha
+112;Guardar configurações de tradução para Texto
+113;Restaurar configurações de tradução para Texto
+114;Restaurar configurações de tradução para Texto
+115;Centrar impressão
+116;Impressão justificada à direita
+117;Sem ficheiros
+118;Memória interna
+119;Memória USB
+120;Bom Dia!
+121;Indente
+122;Ajuda
+123;Fim
+124;Anexar
+125;Eliminado
+127;Espaço de correcção
+128;Sem ficheiros
+130;Ficheiro duplicado
+131;Proteger / Desproteger ficheiro
+132;Reformatar
+133;Sair do editor
+134;Localização de pesquisa
+135;Sensibilidade a maiúsculas e minúsculas na pesquisa
+136;Correspondência de palavras
+137;Pesquisa por texto
+138;Pesquisar e substituir texto
+139;Reiniciar última pesquisa
+140;Iniciar bloco
+141;Finalizar bloco
+142;Copiar bloco para a posição do cursor
+143;Mover bloco para a posição do cursor
+144;Colar bloco na posição do cursor
+145;Ditar bloco
+146;Eliminar bloco
+147;Eliminar carácter actual
+148;Eliminar a palavra actual
+149;Eliminar a linha actual
+150;Eliminar a página actual
+151;Eliminar carácter anterior
+152;Eliminar até o fim da palavra
+153;Eliminar até o final da linha
+154;Restaurar última opção eliminada
+155;Tamanho do ficheiro
+156;Espaço livre
+157;Onde estou?
+158;Formar novo parágrafo
+159;Juntar o parágrafo actual ao próximo
+160;Eliminar quebras de página
+161;Ir para a página
+162;Inserir comando
+163;Eliminar comando
+164;Fonte de alimentação ligada.
+165;Fonte de alimentação desligada.
+166;Bateria totalmente carregada.
+167;Não está a carregar.
+173;Mantenha o botão ligar / desligar pressionado para fechar a Mountbatten
+174;A desligar. Por favor, aguarde...
+175;Rato não compatível
+176;Teclado ligado
+177;Teclado desligado
+178;Menu
+180;Nenhuma memória USB ligada.
+181;MODO DE ATUALIZAÇÃO DE ÁUDIO
+182;Reinicie o dispositivo após a actualização.
+183;Mountbatten Brailler
+184;Comando não implementado
+185;Teclado não está a carregar.
+186;A carregar o teclado.
+187;Dados de actualização encontrados.
+188;Falha ao abrir ficheiro
+190;Volume no máximo
+192;Volume mínimo
+193;O  USB não está pronto!
+194;O  USB está protegido contra gravação de dados!
+200;Tab
+201;Backtab
+202;espaço
+210;Backspace
+211;Nova linha
+212;Correção
+213;Alimentação de linha
+214;Linha reversa
+215;Ejeção de página
+216;Impressão pausada
+218;modo de 6 pontos
+219;modo de 8 pontos
+220;Gravação cancelada
+324;barra vertical
+1001;Eco de letra
+1002;Eco de palavras
+1003;Eco de linha
+1004;Eco de frase
+1005;Ficheiro
+1006;Ecrã
+1007;idioma
+1008;Sistema
+1009;Jogos
+1010;Impressora
+1011;Teclado
+1012;Voz
+1013;Configurações de tradução para Braille
+1014;Configurações de tradução para Texto
+1015;Formatar
+1016;Configurações de página
+1017;ligado
+1018;desligado
+1019;Mais alto
+1020;Mais suave
+1021;Menu principal
+1022;Menu cancelado
+1023;Fechar Mountbatten
+1024;Imprimir informação da versão do dispositivo
+1025;Acesso remoto
+1026;Configurações de WiFi
+1027;Modo avançado
+1028;Guardar as configurações actuais
+1029;Restaurar configurações guardadas
+1030;Actualizar dispositivo
+1031;Modo de uma mão
+1032;Opções de leitura
+1033;Botão de aviso da margem direita
+1034;Definir linha de aviso do fim de página
+1035;Voz sintética
+1036;Voz gravada
+1037;Sem voz
+1038;Falar apenas os comandos
+1039;Falar todas as teclas
+1054;Guardar configurações de tradução para Braille
+1055;Restaurar configurações de tradução para Braille
+1056;Restaurar configurações de tradução para Braille
+1057;Impressão de tradução para Braille
+1058;Tradução básica
+1059;Definir grau de tradução para Braille
+1060;Modo literal
+1061;Configurar alinhamento recolhido
+1062;Suprimir linhas em branco
+1063;Configuração automática de alinhamento
+1064;Eliminar múltiplos espaços
+1065;Modo de fracção
+1066;Introdução de Maiúsculas
+1067;Hífens no final da linha
+1068;Listas ligadas
+1069;Listas desligadas
+1070;Tabela com dois iguais e com colunas
+1071;Ligar/desligar impressora
+1072;Quebra de página
+1073;Imprimir comandos
+1074;Forçar nova página
+1075;Modo de gráficos
+1076;Imprimir em múltiplos impactos 
+1077;Modo rápido
+1078;Configurações de tradução comum
+1079;Modo UEB
+1080;Programadores
+1081;Informação de dispositivo
+1082;Não inicie o módulo avançado
+1083;Actualizar bootloader
+1084;Definir margem esquerda
+1085;Definir margem direita
+1086;Definir a margem esquerda para a posição do cabeçalho
+1087;Definir a margem direita para a posição do cabeçalho
+1088;Redefinir margem esquerda
+1089;Redefinir margem direita
+1090;Definir margem superior
+1091;Definir margem inferior
+1092;Redefinir margem superior
+1093;Redefinir margem inferior
+1094;Definir espaçamento de linha
+1095;Configurar grau de tradução para Texto
+1096;Configuração automática de alinhamento
+1097;Centrar
+1098;Justificar
+1099;Alinhamento à direita
+1100;Maiúsculas
+1101;Modo de fracção
+1102;Modo literal
+1103;Remover múltiplos espaços
+1104;Configuração de espaçamento de linha
+1105;Guardar configurações de tradução para Texto
+1106;Restaurar configurações de tradução para Texto
+1107;Restaurar as configurações de tradução para Texto
+1108;Centrar impressão
+1109;Impressão justificada à direita
+1110;Memória interna
+1111;Memória USB
+1112;Imprimir ...
+1113;Abrir no Editor ...
+1114;Definir memória actual ...
+1115;Tipo de letra pequeno (8 linhas)
+1116;Tipo de letra normal (4 linhas)
+1117;Tipo de letra grandes (3 linhas)
+1118;Abrir ficheiro
+1119;Novo ficheiro
+1120;Guardar
+1121;Renomear
+1122;Proteger / Desproteger ficheiro
+1123;Reformatar
+1124;Sair do editor (Nova Linha + Q)
+1125;Localização de pesquisa
+1126;Sensibilidade a maiúsculas e minúsculas na pesquisa
+1127;Correspondência de palavras
+1128;Pesquisa por texto
+1129;Pesquisar e substituir texto
+1130;Reiniciar última pesquisa
+1131;Iniciar bloco
+1132;Finalizar bloco
+1133;Copiar bloco para a posição do cursor
+1134;Mover bloco para a posição do cursor
+1135;Colar bloco na posição do cursor
+1136;Ditar bloco
+1137;Eliminar bloco
+1138;Eliminar carácter actual
+1139;Eliminar a palavra actual
+1140;Eliminar a linha actual
+1141;Eliminar a página actual
+1142;Eliminar carácter anterior
+1143;Eliminar até o fim da palavra
+1144;Eliminar até o final da linha
+1145;Restaurar última opção eliminada
+1146;Tamanho do ficheiro
+1147;Espaço livre
+1148;Onde estou?
+1149;Formar novo parágrafo
+1150;Juntar o parágrafo actual ao próximo
+1151;Eliminar quebras de página
+1152;Ir para a página
+1153;Inserir comando
+1154;Eliminar comando
+1155;Redefinir para as configurações de fábrica
+1156;Módulo avançado de atualização
+1157;tabelas Braille
+1158;Calendário
+1159;Configurações de data e hora
+1160;Ler data e hora
+1161;Definir data e hora
+1162;Sincronizar data e hora
+1163;MB-Comm start
+1164;MB-Comm stop
+1165;Chave mestre
+1166;Corrida de revezamento de cartas
+1167;piano simples
+1168;Mostrar endereço do teclado
+1169;selecionado
+1170;Definir a posição do sino da margem direita
+1171;Restaurar configurações padrão
+1172;Tamanho da fonte
+1173;Mostrar Braille
+1174;Mostrar texto
+1175;alternar
+1176;Modo simplificado
+1177;Mais opções
+1178;Apagar ficheiro
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;Teclado USB ligado
+2001;Teclado USB desligado
+2002;Memória USB ligada
+2003;Memória USB desligada
+2004;Rato USB não é compatível
+2005;Teclado desligado
+2006;A carregar teclado
+2007;Teclado totalmente carregado.
+2008;Nenhuma memória USB ligada.
+2009;Insira a unidade USB com actualização e tente novamente.
+2010;Por favor, aguarde.
+2011;A actualizar o áudio.
+2012;A actualizar as configurações.
+2013;A actualizar a exibição.
+2014;A actualizar o sistema.
+2015;O dispositivo será reiniciado.
+2016;A memória USB não contém informações de actualização.
+2017;Fonte de alimentação ligada
+2018;Fonte de alimentação desligada
+2019;A carregar
+2020;Não está a carregar
+2021;Bateria totalmente carregada
+2022;Menu
+2023;Volume no mínimo
+2024;Volume no máximo
+2025;Teclado não está a carregar
+2026;A actualizar o Bootloader
+2027;O teclado USB deverá ser desligado.
+2028;Desligar o teclado USB.
+2029;A carregar idioma
+2030;Idioma carregado
+2031;Criar um novo ficheiro no editor simples
+2032;Abrir o ficheiro existente no editor simples
+2033;Fechar editor simples
+2034;Ficheiro de impressão concluído
+2035;Menu fechado
+2036;Velocidade de gravação
+2037;Redefinição de fábrica bem-sucedida.
+2038;Falha na redefinição de fábrica.
+2039;Sim
+2040;Não
+2041;Todas as configurações do usuário e arquivos serão excluídos. Tem certeza?
+2042;Esta operação requer o reinício do dispositivo. Você quer continuar?
+2043;Digite o comando
+2044;Comando cancelado
+2045;6 pontos
+2046;8 pontos
+2047;Digite o novo nome do arquivo:
+2048;Insira o nome do arquivo existente:
+2049;Criação de arquivo cancelada!
+2050;Abertura de arquivo cancelada
+2051;Início da linha
+2052;Fim da linha
+2053;Fim da página
+2054;Início da página
+2055;Nenhum arquivo aberto
+2056;Arquivo já aberto. Feche o arquivo atual primeiro.
+2057;ponto
+2058;pontos
+2059;Tem certeza que deseja atualizar o dispositivo?
+2060;Atualização do dispositivo cancelada
+2061;Número de série
+2062;versão de firmware
+2063;versão do bootloader
+2064;Mountbatten Tutor fechará em dois minutos
+2065;De Fechamento de Mountbatten Tutor
+2066;Nenhuma versão de firmware mais recente encontrada
+2067;Redefinição para as configurações de fábrica cancelada
+2068;Sem ficheiros
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Inglês
+2201;Espanhol
+2202;Italiano
+2203;Francês
+2204;Polaco
+2205;Sueco
+2206;Norueguês
+2207;Holandês
+2208;Português
+2209;Alemão
+2300;Grã Bretanha
+2301;Estados Unidos
+2302;Canadá
+2303;Austrália
+2304;Espanha
+2305;México
+2306;Argentina
+2307;Polónia
+2308;Holanda
+2309;Portugal
+2310;Brasil
+2311;Alemanha
+10000;Velocidade de gravação:% u
+10001;Bateria do teclado:% u %%
+10002;Volume:% u %%

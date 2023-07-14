@@ -1,0 +1,385 @@
+3;Battery low
+4;Battery OK
+5;Recharge battery
+6;Beginning of line
+7;End of line
+8;End of page
+9;Braille head moved
+10;Mountbatten Brailler Tutor
+11;Letter echo
+12;Word echo
+13;Line echo
+14;Braille head jammed
+16;System error
+20;Left margin
+21;Charging
+22;End page
+25;OK
+29;One hand mode
+30;Echo options
+31;Right margin bell toggle
+32;space
+33;exclamation mark
+34;quotation mark
+35;number sign
+36;dollar
+37;percent
+38;ampersand
+39;apostrophe
+40;left bracket
+41;right bracket
+42;asterisk
+43;plus
+44;comma
+45;minus
+46;period
+47;slash
+48;0
+49;1
+50;2
+51;3
+52;4
+53;5
+54;6
+55;7
+56;8
+57;9
+58;colon
+59;semicolon
+60;less-than
+61;equal sign
+62;greater-than
+63;question mark
+64;at
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+100;Enter key
+101;Paper lever up
+103;Error
+104;Command error
+105;Input buffer full
+106;Set back translation grade
+107;Center toggle(BCE)
+108;Justify toggle(BPJ)
+109;Right align toggle(BRA)
+110;Upper case toggle
+111;Command
+112;Store back settings
+113;Restore back settings
+114;Out of paper
+115;Last line
+116;Right justified emboss 
+117;Off
+118;On
+119;USB memory
+120;Good day
+121;Indent
+122;Help
+123;End
+124;Append
+125;Deleted
+127;Correction space
+128;No files
+130;Duplicated file
+200;Tab
+201;Backtab
+202;space
+210;Backspace
+211;New line
+212;Correction
+213;Line feed
+214;Reverse line
+215;Page eject
+216;Printing paused
+218;6 dots mode
+219;8 dots mode
+220;Embossing cancelled
+324;vertical bar
+1001;Letter echo
+1002;Word echo
+1003;Line echo
+1004;Sentence echo
+1005;File
+1006;Display
+1007;Language
+1008;System
+1009;Games
+1010;Emboss
+1011;Keyboard
+1012;Speech
+1013;Forward translation settings
+1014;Back translation settings
+1015;Format
+1016;Page settings
+1017;on
+1018;off
+1019;Louder
+1020;Softer
+1021;Main menu
+1022;Menu cancelled
+1023;Close Mountbatten
+1024;Emboss version information
+1025;Remote control
+1026;WiFi settings
+1027;Advanced mode
+1028;Save current settings
+1029;Restore saved settings
+1030;Update device
+1031;One hand mode
+1032;Echo options
+1033;Right margin bell toggle
+1034;Set end of page bell line
+1035;Synthetic speech
+1036;Recorded speech
+1037;No speech
+1038;Speak prompts only
+1039;Speak all keys
+1054;Store forward settings
+1055;Restore forward settings
+1056;Restore default forward settings
+1057;Emboss forward translation toggle
+1058;Basic translation toggle
+1059;Set forward translation grade
+1060;Literal mode toggle
+1061;Set hanging indent
+1062;Suppress blank lines
+1063;Automatic indent set
+1064;Multiple space removal toggle
+1065;Fraction mode toggle
+1066;Upper case input toggle
+1067;Hyphens at end of line toggle
+1068;Lists on
+1069;Lists off
+1070;Table with two equal width columns
+1071;Emboss ON/OFF toggle
+1072;Word wrap toggle
+1073;Emboss commands
+1074;Force new page
+1075;Graphics mode toggle
+1076;Multi strike emboss
+1077;Fast mode toggle
+1078;Common translation settings
+1079;UEB mode toggle
+1080;Developers
+1081;Device information
+1082;Don't start advanced module
+1083;Update bootloader
+1084;Set left margin
+1085;Set right margin
+1086;Set left margin to head position
+1087;Set right margin to head position
+1088;Reset left margin
+1089;Reset right margin
+1090;Set top margin
+1091;Set bottom margin
+1092;Reset top margin
+1093;Reset bottom margin
+1094;Set line spacing
+1095;Set back translation grade
+1096;Automatic indent set
+1097;Center toggle
+1098;Justify toggle
+1099;Right align toggle
+1100;Upper case toggle
+1101;Fraction mode toggle
+1102;Literal mode toggle
+1103;Multiple space removal toggle
+1104;Line spacing set
+1105;Store back translation settings
+1106;Restore back translation settings
+1107;Restore default back translation settings
+1108;Centered emboss toggle
+1109;Right justified emboss
+1110;Internal memory
+1111;USB memory
+1112;Emboss...
+1113;Open in Editor...
+1114;Set current memory...
+1115;Small fonts (8 lines)
+1116;Standard fonts (4 lines)
+1117;Big fonts (3 lines)
+1118;Open file
+1119;New file
+1120;Save
+1121;Rename
+1122;Protect / Unprotect file
+1123;Reformat
+1124;Exit editor (New Line + Q)
+1125;Direction of search
+1126;Case sensitivity of search
+1127;Word matching
+1128;Search for text
+1129;Search and replace text
+1130;Restart last search
+1131;Begin block
+1132;End block
+1133;Copy block to cursor position
+1134;Move block to cursor position
+1135;Paste block to cursor position
+1136;Speak block
+1137;Delete block
+1138;Delete current character
+1139;Delete current word
+1140;Delete current line
+1141;Delete current page
+1142;Delete previous character
+1143;Delete to end of word
+1144;Delete to end of line
+1145;Restore last deletion
+1146;Size of file
+1147;Free space
+1148;Where am I?
+1149;Form new paragraph
+1150;Join current and next paragraph
+1151;Delete hard page breaks
+1152;Go to page
+1153;Enter command
+1154;Take away command
+1155;Reset to factory settings
+1156;Update advanced module
+1157;Braille tables
+1158;Calendar
+1159;Date and time settings
+1160;Read date and time
+1161;Set date and time
+1162;Synchronize date and time
+1163;MB-Comm start
+1164;MB-Comm stop
+1165;Key master
+1166;Letter relay race
+1167;Simple piano
+1168;Show keyboard address
+1169;selected
+1170;Set right margin bell position
+1171;Restore default settings
+1172;Font size
+1173;Show Braille
+1174;Show text
+1175;toggle
+1176;Simplified mode
+1177;More options
+1178;Delete file
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;USB Keyboard connected
+2001;USB Keyboard disconnected
+2002;USB memory connected
+2003;USB memory disconnected
+2004;USB mouse is not supported
+2005;Keyboard off
+2006;Keyboard charging
+2007;Keyboard fully charged.
+2008;No USB memory connected.
+2009;Insert USB drive with update and try again.
+2010;Please wait.
+2011;Updating audio.
+2012;Updating settings.
+2013;Updating display.
+2014;Updating system.
+2015;Device will be restarted.
+2016;USB memory does not contain update information.
+2017;Power supply connected
+2018;Power supply disconnected
+2019;Charging
+2020;Not charging
+2021;Battery fully charged
+2022;Menu
+2023;Volume at minimum
+2024;Volume at maximum
+2025;Keyboard not charging
+2026;Updating Bootloader
+2027;USB keyboard needs to be disconnected.
+2028;Please disconnect USB keyboard.
+2029;Loading language
+2030;Language loaded
+2031;Create new file
+2032;Append to a file
+2033;Close current file
+2034;Embossing file finished
+2035;Menu closed
+2036;Embossing speed
+2037;Factory reset succeeded.
+2038;Factory reset failed.
+2039;Yes
+2040;No
+2041;All user setting and files will be deleted. Are you sure?
+2042;This operation requires restarting device. Do you want to continue?
+2043;Enter command
+2044;Command cancelled
+2045;6 dots
+2046;8 dots
+2047;Enter new file name:
+2048;Enter existing file name:
+2049;Creating file cancelled!
+2050;File open cancelled
+2051;Beginning of line
+2052;End of line
+2053;End of page
+2054;Beginning of page
+2055;No file opened
+2056;File already open. Please close current file first.
+2057;dot
+2058;dots
+2059;Are you sure you want to update device?
+2060;Device update cancelled
+2061;Serial number
+2062;Firmware version
+2063;Bootloader version
+2064;Mountbatten Tutor will close in two minutes
+2065;Closing Mountbatten Tutor
+2066;No newer firmware version found
+2067;Resetting to factory settings cancelled
+2068;No files
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;English
+2201;Spanish
+2202;Italian
+2203;French
+2204;Polish
+2205;Swedish
+2206;Norwegian
+2207;Dutch
+2208;Portuguese
+2209;German
+2300;Great Britain
+2301;United States
+2302;Canada
+2303;Australia
+2304;Spain
+2305;Mexico
+2306;Argentina
+2307;Poland
+2308;Netherlands
+2309;Portugal
+2310;Brazil
+2311;Germany
+10000;Embossing speed: %u
+10001;Keyboard battery: %u%%
+10002;Volume: %u%%

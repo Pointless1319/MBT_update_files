@@ -1,0 +1,451 @@
+3;Batterij bijna leeg
+4;Batterij OK
+5;Laad de batterij op 
+6;Begin van regel
+7;Einde van regel
+8;Einde van pagina
+9;Braillekop verplaatst
+10;Mountbatten Brailler Tutor
+11;Letter herhalen
+12;Woord herhalen
+13;Regel herhalen
+14;Braillekop vastgelopen
+16;Systeem fout
+20;Linkermarge
+21;Opladen
+22;Eindpagina
+25;OK
+29;Eenhandige modus
+30;Herhaal opties
+31;Rechter marge alarm schakelen
+32;spatie
+33;uitroepteken
+34;aanhalingsteken
+35;nummerteken
+36;dollar
+37;procent
+38; ampersand
+39;apostrof
+40;links haakje
+41;rechts haakje
+42;sterretje
+43;plus
+44;komma
+45;minus
+46;periode
+47;slash
+48;nul
+49;een 
+50;twee
+51;drie
+52;vier
+53;vijf
+54;zes
+55;zeven
+56;acht
+57;negen
+58;dubbele punt
+59;puntkomma
+60;minder dan
+61;gelijkteken
+62;groter dan
+63;vraagteken
+64;at
+65;tien
+66;elf
+67;twaalf
+68;dertien
+69;veertien
+70;vijftien
+71;zestien
+72;zeventien
+73;achtien
+74;negentien
+75;twintig
+76;Sleutel master
+77;Verlaat spel
+78;Mountbatten afsluiten
+79;Markeer versie informatie
+80;Op afstand besturing
+81;WiFi instellingen
+82;Geavanceerde weergave
+83;Sla huidige instellingen op
+84;Herstel alle instellingen
+85;Firmware bijwerken
+86;Bijwerken audio module
+87;Bijwerken display module
+88;Bijwerken Bluetooth module
+89;Markeer nieuwe vertaling schakelen
+90;Standaard vertaling schakelen
+91;Instellen volgende vertaling graad
+92;Letterlijke weergave schakelen
+93;Instellen hangende inspringing
+94;Onderdruk blanco regels
+95;Automatisch inspringen instellen
+96;Meerdere spaties verwijderen schakelen
+97;Fractie weergave schakelen
+98;Hoofdletters input schakelen
+99;Koppeltekens aan het einde van de regel inschakelen
+100;Lijsten aan
+101;Papierhendel omhoog
+102;Tabel met twee gelijke kolommen
+103;Fout
+104;Opdracht foutmelding
+105;Invoerbuffer vol
+106;Terugzetten vertaal cijfer
+107;Middelste schakelen
+108;Verantwoorden schakelen
+109;Rechts uitlijnen schakelen
+110;Hoofdletter schakelen
+111;Opdracht 
+112;Instellingen herstellen
+113;Herstellen van instellingen
+114;Geen papier meer
+115;Laatste regel
+116;Rechts uitgelijnd forceren
+117;Geen bestanden
+118;Intern geheugen
+119;USB geheugen
+120;Goedendag
+121;Inspringen
+122;Help
+123;Einde
+124;Toevoegen
+125;Verwijderd
+127;Correctie ruimte
+128;Geen bestanden
+130;Duplicaat bestand 
+131;Beschermd / Onbeschermd bestand
+132;Herformateer 
+133;Beëindig editor
+134;Zoekrichting
+135;Hoofdlettergevoeligheid van zoekterm
+136;Woord gelijk maken
+137;Zoek tekst
+138;Zoek en vervang tekst
+139;Herstart laatste zoekfunctie
+140;Begin blok
+141;Einde blok
+142;Kopieer blok naar cursor positie
+143;Verplaats blok naar cursor positie
+144;Plak blok naar cursor positie
+145;Spreek blok
+146;Verwijder blok
+147;Verwijder huidige letter
+148;Verwijder huidig woord
+149;Verwijder huidige regel
+150;Verwijder huidige pagina
+151;Verwijder vorige letter
+152;Verwijder naar einde van woord
+153;Verwijder naar einde van regel
+154;Herstel laatste verwijderbeurt
+155;Omvang van bestand
+156;Vrije ruimte
+157;Waar ben ik?
+158;Maak nieuwe paragraaf
+159;Voeg huidige en volgende paragraaf samen
+160;Verwijder abrupte pagina onderbreking
+161;Ga naar pagina
+162;Commando ingeven
+163;Wegnemen commando
+164;Voedingsbron aangesloten
+165;Voedingsbron afgekoppeld
+166;Batterij volledig opgeladen
+167;Niet aan het opladen
+173;Houdt aan/uit toets ingedrukt om Mountbatten af te sluiten
+174;Afsluiten. Even geduld alstublieft…
+175;Muis niet ondersteund
+176;Toetsenbord verbonden
+177;Toetsenbord afgekoppeld
+178;Menu
+180;Geen USB geheugen verbonden.
+181;AUDIO UPDATE WEERGAVE
+182;Stel alstublieft apparaat opnieuw in na update.
+183;Mountbatten Brailler  
+184;Commando niet toegepast
+185;Toetsenbord niet aan het opladen.
+186;Toetsenbord opladen.
+187;Update data gevonden.
+188;Bestand open mislukt.
+190;Volume is maximaal
+192;Volume is minimaal
+193;USB geheugen niet gereed!
+194;USB geheugen is beveiligd!
+200;Tabblad
+201;Backtabblad
+202;spatie
+210;Backspace
+211;Nieuwe regel
+212;Correctie
+213;Lijninvoer
+214;Reverse lijn
+215;Pagina uitwerpen
+216;Afdrukken gepauzeerd
+218;6 punten modus
+219;8 punten modus
+220;Embossing geannuleerd
+324;verticale staaf
+1001;Letter herhalen
+1002;Woord herhalen
+1003;Regel herhalen
+1004;Zin herhalen
+1005;Bestand
+1006;Scherm
+1007;Taal
+1008;Systeem  
+1009;Spelletjes
+1010;Markeren
+1011;Toetsenbord
+1012;Spraak
+1013;Voorwaarts vertaling instellingen
+1014;Achterwaarts vertaling instellingen
+1015;Formaat
+1016;Pagina instellingen
+1017;Aan
+1018;Uit
+1019;Harder
+1020;Zachter
+1021;Hoofdmenu
+1022;Menu geannuleerd
+1023;Sluit Mountbatten
+1024;Markeer versie informatie
+1025;Op afstand besturen
+1026;WiFi instellingen
+1027;Geavanceerde weergave
+1028;Opslaan huidige instellingen
+1029;Herstel opgeslagen instellingen
+1030;Update apparaat
+1031;Een hand weergave
+1032;Herhaal opties
+1033;Rechter marge alarm schakelen
+1034;Instellen einde van pagina alarm schakelen
+1035;Synthetische spraak
+1036;Opgesnomen spraak
+1037;Geen spraak
+1038;Spreek alleen prompts uit
+1039;Spreek alle toetsen
+1054;Opslaan voorwaartse instellingen
+1055;Herstel voorwaartse instellingen
+1056;Herstel voorwaartse instellingen
+1057;Markeer voorwaartse vertaling schakelen
+1058;Standaard vertaling schakelen 
+1059;Voorwaartse vertaling instellen cijfer
+1060;Letterlijke weergave schakelen 
+1061;Instellen hangende inspringing
+1062;Onderdruk hangende regels
+1063;Automatisch inspringen instellen
+1064;Meerdere spaties verwijderen schakelen
+1065;Fractie weergave schakelen
+1066;Hoofdletters input schakelen
+1067;Koppeltekens aan het einde van de regel inschakelen
+1068;Lijsten aan
+1069;Lijsten uit
+1070;Tabel met twee gelijke kolommen
+1071;Markeer AAN/UIT schakelen
+1072;Woord inpakken schakelen
+1073;Markeer commando's
+1074;Forceer nieuwe pagina
+1075;Grafische weergave schakelen
+1076;Multi treffer markeren
+1077;Snelle weergave schakelen
+1078;Algemene vertaling instellingen
+1079;UEB weergave schakelen
+1080;Ontwerpers
+1081;Systeem informatie
+1082;Geavanceerde module niet starten
+1083;Bijwerken opstartprogramma
+1084;Linker marge instellen
+1085;Rechter marge instellen
+1086;Stel linker marge in naar koppositie 
+1087;Stel rechter marge in naar koppositie 
+1088;Reset linker marge
+1089;Reset rechter marge
+1090;Instellen top marge
+1091;Instellen einde marge
+1092;Reset top marge
+1093;Reset einde marge
+1094;Instellen regelafstand
+1095;Terugzetten vertaal cijfer
+1096;Automatisch inspringen instellen
+1097;Middelpunt schakelen
+1098;Motiveer schakelen
+1099;Rechts uitlijnen schakelen
+1100;Hoofdletter schakelen
+1101;Fractie weergave schakelen
+1102;Letterlijke weergave schakelen
+1103;Meerdere spaties verwijderen schakelen
+1104;Regelafstand ingesteld
+1105;Vertalingsinstellingen opslaan
+1106;Vertalingsinstellingen herstellen
+1107;Standaard vertalingsinstellingen herstellen
+1108;Middelpunt markeer schakelen
+1109;Motiveer rechts markeren
+1110;Intern geheugen
+1111;USB geheugen
+1112;Markeren…
+1113;Openen in Editor..
+1114;Huidig geheugen instellen..
+1115;Kleine lettertypes (8 lijnen)
+1116;Standaard lettertypes (4 lijnen)
+1117;Grote lettertypes (3 lijnen)
+1118;Open bestand
+1119;Nieuw bestand
+1120;Opslaan
+1121;Hernoemen
+1122;Beschermd / Onbeschermd bestand
+1123;Herformateer 
+1124;Beëindig editor
+1125;Aanwijzing van zoekterm
+1126;Hoofdlettergevoeligheid van zoekterm
+1127;Woord koppeling
+1128;Zoek naar tekst
+1129;Zoek en vervang tekst
+1130;Herstart laatste zoekfunctie
+1131;Start blokkeren 
+1132;Einde blokkeren
+1133;Kopieer blok naar cursor positie
+1134;Verplaats blok naar cursor positie
+1135;Plak blok naar cursor positie
+1136;Spreek blok
+1137;Verwijder blok
+1138;Verwijder huidige letter
+1139;Verwijder huidig woord
+1140;Verwijder huidige zin
+1141;Verwijder huidige pagina
+1142;Verwijder vorige letter
+1143;Verwijder naar einde van woord
+1144;Verwijder naar einde van lijn
+1145;Herstel laatste verwijderbeurt
+1146;Bestandsformaat
+1147;Vrije ruimte
+1148;Waar ben ik?
+1149;Begin nieuwe paragraaf
+1150;Voeg huidige en volgende paragraaf samen
+1151;Verwijder harde pagina afbreken
+1152;Ga naar pagina
+1153;Voer commando in
+1154;Commando verwijderen
+1155;Terugzetten naar fabrieksinstellingen
+1156;Update geavanceerde module
+1157;Braille-tabellen
+1158;Kalender
+1159;Datum en tijd instellingen
+1160;Lees datum en tijd
+1161;Datum en tijd instellen
+1162;Synchroniseer datum en tijd
+1163;MB-Comm start
+1164;MB-Comm stop
+1165;Sleutelmeester
+1166;Brieven estafetteloop
+1167;Eenvoudige piano
+1168;Toon toetsenbordadres
+1169;geselecteerd
+1170;Positie bel rechts in de marge instellen
+1171;Standaardinstellingen herstellen
+1172;Lettergrootte
+1173;Toon Braille
+1174;Toon tekst
+1175;toggle
+1176;Vereenvoudigde modus
+1177;Meer opties
+1178;Bestand verwijderen
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;USB toetsenbord verbonden
+2001;USB toetsenbord verwijderd
+2002;USB geheugen verbonden
+2003;USB geheugen verwijderd
+2004;USB muis wordt niet ondersteund
+2005;Toetsenbord uit
+2006;Toetsenbord opladen.
+2007;Toetsenbord volledig opgeladen
+2008;Geen USB geheugen verbonden.
+2009;Voer USB geheugen met update in en probeer opnieuw
+2010;Even geduld alstublieft
+2011;Audio bijwerken
+2012;Instellingen bijwerken
+2013;Display bijwerken
+2014;Systeem bijwerken
+2015;Apparaat wordt opnieuw opgestart
+2016;USB geheugen bevat geen update informatie
+2017;Voeding aangesloten
+2018;Voeding verwijderd
+2019;Opladen
+2020;Niet aan het opladen
+2021;Batterij volledig opgeladen
+2022;Menu
+2023;Volume minimum 
+2024;Volume maximum
+2025;Toetsenbord niet aan het opladen
+2026;Opstartprogramma bijwerken
+2027;USB toetsenbord moet worden verwijderd
+2028;Verwijder alstublieft USB toetsenbord
+2029;Taal laden
+2030;Taal geladen
+2031;Creër nieuw bestand in simpele editor
+2032;Open bestaand bestand in simpele editor
+2033;Afsluiten simpele editor
+2034;Markeren bestand voltooid
+2035;Menu gesloten
+2036;Embossingsnelheid
+2037;Fabrieksreset geslaagd.
+2038;Fabrieksreset mislukt.
+2039;Ja
+2040;Nee
+2041;Alle gebruikersinstellingen en bestanden worden verwijderd. Weet je zeker dat?
+2042;Voor deze bewerking moet het apparaat opnieuw worden opgestart. Wil je doorgaan?
+2043;Voer opdracht in
+2044;Opdracht geannuleerd
+2045;6 punten
+2046;8 punten
+2047;Voer een nieuwe bestandsnaam in:
+2048;Voer bestaande bestandsnaam in:
+2049;Aanmaken bestand geannuleerd!
+2050;Bestand openen geannuleerd
+2051;Begin van de lijn
+2052;Einde lijn
+2053;Einde pagina
+2054;Begin van pagina
+2055;Geen bestand geopend
+2056;Bestand al geopend. Sluit eerst het huidige bestand.
+2057;punt
+2058;stippen
+2059;Weet je zeker dat je het apparaat wilt updaten?
+2060;Apparaatupdate geannuleerd
+2061;Serienummer
+2062;Firmwareversie
+2063;Bootloader-versie
+2064;Mountbatten Tutor sluit over twee minuten
+2065;Mountbatten-tutor afsluiten
+2066;Geen nieuwere firmwareversie gevonden
+2067;Resetten naar fabrieksinstellingen geannuleerd
+2068;Geen bestanden
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Engels
+2201;Spaans
+2202;Italiaans
+2203;Frans
+2204;Pools
+2205;Zweeds
+2206;Noors
+2207;Nederland
+2208;Portugees
+2209;Duits
+2300;Groot-Brittanië
+2301;Verenigde Staten
+2302;Canada
+2303;Australië
+2304;Spanje
+2305;Mexico
+2306;Argentinië
+2307;Polen
+2308;Nederland
+2309;Portugal
+2310;Brazilië
+2311;Duitsland
+10000;Embossingsnelheid: %u
+10001;Toetsenbordbatterij: %u%%
+10002;Volume: %u%%

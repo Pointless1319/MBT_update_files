@@ -1,0 +1,449 @@
+3;Batterie schwach
+4;Batterie OK
+5;Lade die Batterie auf
+6;Anfang der Linie
+7;Ende der Linie
+8;Ende der Seite
+9;Anfang der Seite
+10;Mountbatten Brailler Tutor
+11;Buchstabenecho
+12;Wortecho
+13;Linienecho
+14;Satz Echo
+16;Systemfehler
+20;Linker Rand
+21;Aufladen
+22;Ende Seite
+25;OK
+29;Einhandmodus
+30;Echo Optionen
+31;Glocke umschalten am rechten Rand
+32;Stellen Sie das Ende der Seitenglocke ein
+33;Synthetische Sprache
+34;Aufgezeichnete Sprache
+35;Keine Sprache
+36;Sprechen Sie nur Eingabeaufforderungen
+37;Sprechen Sie alle Tasten
+38;Präge EIN / AUS umschalten
+39;Zeilenumbruch umschalten
+40;Präge Kommandos
+41;Neue Seite erzwingen
+42;Grafikmodus umschalten
+43;Multi Strike Prägung
+44;Schnellmodus umschalten
+45;Linken Rand erstellen
+46;Rechten Rand erstellen
+47;Stellen Sie den linken Rand auf Kopfposition
+44;Komma
+45;Minus
+46;Punkt
+47;Schrägstrich
+48;0
+49;1
+50;2
+51;3
+52;4
+53;5
+54;6
+55;7
+56;8
+57;9
+58;Doppelpunkt
+59;Semikolon
+60;weniger als
+61;Gleichheitszeichen
+62;größer als
+63;Fragezeichen
+64;at
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+100;Enter key
+101;Papierhebel hoch
+103;Fehler
+104;Befehlsfehler
+105;Eingabepuffer voll
+106;Übersetzungsgrad zurücksetzen
+108;Begründen Sie das Umschalten (BPJ)
+111;Zeilenabstand eingestellt
+112;Speichern Sie die Einstellungen zurück
+113;Stellen Sie die Einstellungen wieder her
+114;Stellen Sie die Standardeinstellungen für die Wiederherstellung wieder her
+115;Zentrierter Prägeknopf
+116;Richtig begründete Prägung 
+117;Keine Dateien
+118;Interner Speicher
+119;USB- Speicher
+120;Guten tag
+121;Einrücken
+122;Hilfe
+123;Ende
+124;Anhängen
+125;Gelöscht
+127;Korrekturspeicherplatz
+128;Keine Dateien
+130;Doppelte Datei
+131;Datei schützen / Aufheben des Schutzes
+132;Neuformatierung
+133;Editor schließen
+134;Suchrichtung
+135;Groß- und Kleinschreibung der Suche
+136;Wortübereinstimmung
+137;Suche nach Text
+138;Suchen und ersetzen Sie Text
+139;Starten Sie die letzte Suche neu
+140;Block beginnen
+141;Block beenden
+142;Block an Cursorposition kopieren
+143;Bewegen Sie den Block an die Cursorposition
+144;Block an Cursorposition einfügen
+145;Block sprechen
+146;Block löschen
+147;Aktuelles Zeichen löschen
+148;Aktuelles Wort löschen
+149;Aktuelle Zeile löschen
+150;Aktuelle Seite löschen
+151;Vorheriges Zeichen löschen
+152;Löschen bis zum Ende des Wortes
+153;Löschen bis zum Ende der Zeile
+154;Stellen Sie die letzte Löschung wieder her
+155;Größe der Datei
+156;Freier Platz
+157;Wo bin ich?
+158;Neuen Absatz bilden
+159;Verbinden Sie den aktuellen und den nächsten Absatz
+160;Löschen Sie harte Seitenumbrüche
+161;Gehe auf Seite
+162;Befehl eingeben
+163;Befehl zum Mitnehmen
+164;Stromversorgung angeschlossen.
+165;Stromversorgung nicht angeschlossen.
+166;Batterie vollständig geladen.
+167;Nicht geladen.
+173;Halten Sie den Netzschalter gedrückt, um Mountbatten zu schließen
+174;Herunterfahren. Bitte warten...
+175;Maus nicht unterstützt
+176;Tastatur verbunden
+177;Tastatur getrennt
+178;Menü
+180;Kein USB-Speicher angeschlossen.
+181;AUDIO-UPDATE-MODUS
+182;Bitte setzen Sie das Gerät nach dem Update zurück.
+183;Mountbatten Brailler
+184;Befehl nicht implementiert
+185;Tastatur lädt nicht.
+186;Tastatur lädt.
+187;Aktualisierte Daten gefunden.
+188;Datei öffnen fehlgeschlagen
+190;Lautstärke maximal
+192;Lautstärke minimal
+193;USB Disk ist nicht bereit!
+194;USB Disk ist schreibgeschützt!
+200;Tab
+201;Backtab
+202;Leerzeichen
+210;Rücktaste
+211;Neue Zeile
+212;Korrektur
+213;Zeilenvorschub
+214;Umgekehrte Linie
+215;Seite auswerfen
+216;Druck angehalten
+218;6-Punkte-Modus
+219;8-Punkte-Modus
+220;Prägung abgebrochen
+324;vertikaler Balken
+1001;Buchstabenecho
+1002;Wortecho
+1003;Linienecho
+1004;Satz Echo
+1005;Datei
+1006;Anzeige
+1007;Sprache
+1008;System
+1009;Spiele
+1010;Prägen
+1011;Tastatur
+1012;Rede
+1013;Einstellungen für die Weiterleitung der Übersetzung
+1014;Einstellungen für die Rückübersetzung
+1015;Format
+1016;Seiteneinstellungen
+1017;an
+1018;aus
+1019;Lauter
+1020;Weicher
+1021;Hauptmenü
+1022;Menü abgebrochen
+1023;Mountbatten schließen
+1024;Informationen zur Prägeversion
+1025;Fernbedienung
+1026;WiFi-Einstellungen
+1027;Erweiterter Modus
+1028;Aktuelle Einstellungen speichern
+1029;Gespeicherte Einstellungen wiederherstellen
+1030;Gerät aktualisieren
+1031;Einhandmodus
+1032;Echo Optionen
+1033;Glocke am rechten Rand umschalten
+1034;Seitenendeglocke einstellen
+1035;Synthetische Sprache
+1036;Aufgezeichnete Sprache
+1037;Keine Sprachausgabe
+1038;Nur Aufforderungen sprechen
+1039;Alle Tasten sprechen
+1054;Übersetzungseinstellungen speichern
+1055;Übersetzuungseinstellungn wiederherstellen
+1056;Übersetzungseinstellungen auf Standard stellen
+1057;Präge vorwärts Übersetzung umschalten
+1058;Basis Übersetzung umschalten
+1059;bersetzungsgrad einstellen
+1060;Literal-Modus umschalten
+1061;Hängenden Einzug setzen
+1062;Leerzeilen unterdrücken
+1063;Automatischen Einzug setzen
+1064;Umschalten zum Entfernen mehrerer Leerzeichen
+1065;Umbruchmodus umschalten
+1066;Großschreibung umschalten
+1067;Trennstriche am Zeilenende umschalten
+1068;Liste an
+1069;Listet aus
+1070;Tabelle mit zwei gleichen Spalten
+1071;Präge EIN / AUS umschalten
+1072;Wortumbruch umschalten
+1073;Präge Kommandos
+1074;Neue Seite erzwingen
+1075;Grafikmodus umschalten
+1076;Mehrfachschlag Prägung
+1077;Schnellmodus umschalten
+1078;allgemeine Übersetzungseinstellungen
+1079;UEB-Modus umschalten
+1080;Entwickler
+1081;Geräteinformation
+1082;Das erweiterte Modul nicht starten
+1083;Bootloader aktualisieren
+1084;Linken Rand setzen
+1085;Rechten Rand setzen
+1086;linken Rand auf Kopfposition setzen
+1087;Rechten Rand auf Kopfposition setzen
+1088;Linken Rand zurücksetzen
+1089;Rechten Rand zurücksetzen
+1090;Oberen Rand einstellen
+1091;Unteren Rand einstellen
+1092;Oberen Rand zurücksetzen
+1093;Unteren Rand zurücksetzen
+1094;Zeilenabstand einstellen
+1095;Rückübersetzungsgrad setzen
+1096;Automatischen Einzug setzen
+1097;Zentrieren umschalten
+1098;Ausrichtung Umschalten
+1099;Rechtsbündig umschalten
+1100;Großbuchstabung umschalten
+1101;Umschalten des Bruchmodus
+1102;Literal-Modus umschalten
+1103;Umschalten zum Entfernen mehrerer Leerzeichen
+1104;Zeilenabstand eingestellt
+1105;Speichere Einstellungen für die Rückübersetzung
+1106;Stelle die Rückübersetzungseinstellungen wieder her
+1107;Stelle die Standardeinstellungen für die Rückübersetzung her
+1108;Zentrierter Prägung
+1109;Rechtsbündige Prägung
+1110;Interner Speicher
+1111;USB-Speicher
+1112;Prägen...
+1113;Im Editor öffnen...
+1114;Stelle den aktuellen Speicher ein.
+1115;Kleine Schriftarten (8 Zeilen)
+1116;Standardschriftarten (4 Zeilen)
+1117;Große Schriftarten (3 Zeilen)
+1118;Datei öffnen
+1119;Neue Datei
+1120;Speichern
+1121;Umbenennen
+1122;Datei schützen / Aufheben des Schutzes
+1123;Neuformatierung
+1124;Editor beenden (Neue Zeile + Q)
+1125;Suchrichtung
+1126;Groß- und Kleinschreibung der Suche
+1127;Wortübereinstimmung
+1128;Suche nach Text
+1129;Suchen und ersetzen Sie Text
+1130;Starte die letzte Suche neu
+1131;Block beginnen
+1132;Block beenden
+1133;Block an Cursorposition kopieren
+1134;Bewege den Block an die Cursorposition
+1135;Block an Cursorposition einfügen
+1136;Block sprechen
+1137;Block löschen
+1138;Aktuelles Zeichen löschen
+1139;Aktuelles Wort löschen
+1140;Aktuelle Zeile löschen
+1141;Aktuelle Seite löschen
+1142;Vorheriges Zeichen löschen
+1143;Löschen bis zum Ende des Wortes
+1144;Löschen bis zum Ende der Zeile
+1145;Stelle die letzte Löschung wieder her
+1146;Größe der Datei
+1147;Freier Platz
+1148;Wo bin ich?
+1149;Neuen Absatz bilden
+1150;Verbinde den aktuellen und den nächsten Absatz
+1151;Lösche harte Seitenumbrüche
+1152;Gehe auf Seite
+1153;Befehl eingeben
+1154;Befehl zum Mitnehmen
+1155;Auf Werkseinstellungen zurücksetzen
+1156;Erweitertes Modul aktualisieren
+1157;Braille-Tabellen
+1158;Kalender
+1159;Datums- und Uhrzeiteinstellungen
+1160; Datum und Uhrzeit lesen
+1161;Datum und Uhrzeit einstellen
+1162;Datum und Uhrzeit synchronisieren
+1163;MB-Comm-Start
+1164;MB-Comm-Stopp
+1165;Schlüsselmeister
+1166;Brief-Staffellauf
+1167;Einfaches Klavier
+1168;Tastaturadresse anzeigen
+1169;ausgewählt
+1170;Glockenposition am rechten Rand einstellen
+1171;Standardeinstellungen wiederherstellen
+1172;Schriftgröße
+1173;Zeige Blindenschrift
+1174;Text anzeigen
+1175;umschalten
+1176;Vereinfachter Modus
+1177;Mehr Optionen
+1178;Datei löschen
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;USB-Tastatur angeschlossen
+2001;USB-Tastatur getrennt
+2002;USB-Speicher angeschlossen
+2003;USB-Speicher getrennt
+2004;USB-Maus wird nicht unterstützt
+2005;Tastatur aus
+2006;Tastatur lädt
+2007;Tastatur vollständig geladen.
+2008;Kein USB-Speicher angeschlossen.
+2009;Stecken Sie den USB-Speicher mit dem Update ein und versuchen Sie es erneut.
+2010;Bitte warten.
+2011;Audio aktualisieren.
+2012;Einstellungen aktualisieren.
+2013;Anzeige aktualisieren.
+2014;System aktualisieren.
+2015;Gerät wird neu gestartet.
+2016;Der USB-Speicher enthält keine Aktualisierungsinformationen.
+2017;Stromversorgung angeschlossen
+2018;Stromversorgung nicht angeschlossen
+2019;Laden
+2020;Lädt nicht
+2021;Batterie vollständig geladen
+2022;Menü
+2023;Lautstärke minimum
+2024;Lautstärke maximal
+2025;Tastatur lädt nicht
+2026;Bootloader aktualisieren
+2027;Die USB-Tastatur muss getrennt werden.
+2028;Bitte trennen Sie die USB-Tastatur.
+2029;Sprache wird geladen
+2030;Sprache geladen
+2031;Erstelle eine neue Datei im einfachen Editor 
+2032;Öffne vorhandene Datei im einfachen Editor
+2033;Einfachen Editor schließen
+2034;Prägedatei fertig
+2035;Menü geschlossen
+2036;Prägegeschwindigkeit
+2037;Werksreset erfolgreich.
+2038;Werksreset fehlgeschlagen.
+2039;Ja
+2040;Nein
+2041;Alle Benutzereinstellungen und Dateien werden gelöscht. Bist du sicher?
+2042;Dieser Vorgang erfordert einen Neustart des Geräts. Wollen Sie fortfahren?
+2043;Befehl eingeben
+2044;Befehl abgebrochen
+2045;6 Punkte
+2046;8 Punkte
+2047;Neuen Dateinamen eingeben:
+2048;Vorhandenen Dateinamen eingeben:
+2049;Dateierstellung abgebrochen!
+2050;Datei öffnen abgebrochen
+2051;Anfang der Linie
+2052;Ende der Zeile
+2053;Ende der Seite
+2054;Anfang der Seite
+2055;Keine Datei geöffnet
+2056;Datei bereits geöffnet. Bitte schließen Sie zuerst die aktuelle Datei.
+2057;punkt
+2058;Punkte
+2059;Möchten Sie das Gerät wirklich aktualisieren?
+2060;Geräteupdate abgebrochen
+2061;Seriennummer
+2062;Firmware-Version
+2063;Bootloader-Version
+2064;Mountbatten Tutor wird in zwei Minuten geschlossen
+2065;Den Mountbatten Tutor ausschalten
+2066;Keine neuere Firmware-Version gefunden
+2067;Rücksetzen auf Werkseinstellungen abgebrochen
+2068;Keine Dateien
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Englisch
+2201;Spanisch
+2202;Italienisch
+2203;Französisch
+2204;Polnisch
+2205;Schwedisch
+2206;Norwegisch
+2207;Niederländisch
+2208;Portugiesisch
+2209;Deutsch
+2300;Großbritanien
+2301;Vereinigte Staaten
+2302;Kanada
+2303;Australien
+2304;Spanien
+2305;Mexiko
+2306;Argentinien
+2307;Polen
+2308;Niederlande
+2309;Portugal
+2310;Brasilien
+2311;Deutschland
+10000;Prägegeschwindigkeit: %u
+10001;Tastaturbatterie: %u%%
+10002;Volumen: %u%%
+90000;ä
+90001;Ä
+90002;ö
+90003;Ö
+90004;ü
+90005;Ü
+90006;ß

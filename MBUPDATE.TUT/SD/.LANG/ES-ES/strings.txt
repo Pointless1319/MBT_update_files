@@ -1,0 +1,450 @@
+3;Batería baja
+4;Batería OK
+5;Carga la batería
+6;Beginning of line
+7;End of line
+8;End of page
+9;Cabeza braille movida
+10;Mountbatten Brailler Tutor
+11;Letter echo
+12;Word echo
+13;Line echo
+14;Cabeza de Braille atascada
+16;System error
+20;Margen izquierdo
+21;Cargando
+22;Página final
+25;OK
+29;One hand mode
+30;Echo options
+31;Right margin bell toggle
+32;Set end of page bell line
+33;Synthetic speech
+34;Recorded speech
+35;No speech
+36;Speak prompts only
+37;Speak all keys
+38;Emboss ON/OFF toggle
+39;Word wrap toggle
+40;Emboss commands
+41;Force new page
+42;Graphics mode toggle
+43;Multi strike emboss
+44;Fast mode toggle
+45;Set left margin
+46;Set right margin
+47;Set left margin to head position
+48;Set right margin to head position
+49;Reset left margin
+50;Reset right margin
+51;Set top margin
+52;Set bottom margin
+53;Reset top margin
+54;Reset bottom margin
+55;Line spacing
+56;0
+57;1
+58;2
+59;3
+60;4
+61;5
+62;7
+63;8
+64;9
+65;10
+66;11
+67;12
+68;13
+69;14
+70;15
+71;16
+72;17
+73;18
+74;19
+75;20
+76;Key master
+77;Exit game
+78;Cerrar Mountbatten
+79;Imprimir información de la versión
+80;Control remoto
+81;Configuraciones de WiFi
+82;Advanced mode
+83;Store all current settings
+84;Restore all settings
+85;Actualice el firmware
+86;Actualizar módulo de audio
+87;Actualizar módulo de visualización
+88;Actualizar el módulo Bluetooth
+89;Emboss forward translation toggle
+90;Basic translation toggle
+91;Set forward translation grade 
+92;Literal mode toggle
+93;Set hanging indent
+94;Suppress blank lines
+95;Automatic indent set
+96;Multiple space removal toggle
+97;Fraction mode toggle
+98;Upper case input toggle
+99;Hyphens at end of line toggle
+100;Lists on
+101;Palanca de papel hacia arriba
+102;Table with two equal with columns
+103;Error
+104;Command error
+105;Input buffer full
+106;Set backward translation grade
+107;Center toggle(BCE)
+108;Justify toggle(BPJ)
+109;Right align toggle(BRA)
+110;Upper case toggle
+111;Mando
+112;Store backward settings
+113;Restore backward settings
+114;Sin papel
+115;última línea
+116;Right justified emboss 
+117;No files
+118;Internal memory
+119;USB memory
+120;Buenos días
+121;Sangría
+122;Ayuda
+123;Fin
+124;Añadir
+125;Borrado
+127;Espacio de corrección
+128;Sin archivos
+130;Archivo duplicado
+131;Protect / Unprotect file
+132;Reformat
+133;Exit editor
+134;Direction of search
+135;Case sensitivity of search
+136;Word matching
+137;Search for text
+138;Search and replace text
+139;Restart last search
+140;Begin block
+141;End block
+142;Copy block to cursor position
+143;Move block to cursor position
+144;Paste block to cursor position
+145;Speak block
+146;Delete block
+147;Delete current character
+148;Delete current word
+149;Delete current line
+150;Delete current page
+151;Delete previous character
+152;Delete to end of word
+153;Delete to end of line
+154;Restore last deletion
+155;Size of file
+156;Free space
+157;Where am I?
+158;Form new paragraph
+159;Join current and next paragraph
+160;Delete hard page breaks
+161;Go to page
+162;Enter command
+163;Take away command
+164;Power supply connected.
+165;Power supply disconnected.
+166;Battery fully charged.
+167;Not charging.
+173;Hold down power button to close Mountbatten
+174;Shutting down. Please wait...
+175;Mouse not supported
+176;Keyboard connected
+177;Keyboard disconnected
+178;Menu
+180;No USB memory connected.
+181;AUDIO UPDATE MODE
+182;Please reset device after update.
+183;Mountbatten Brailler
+184;Command not implemented
+185;Keyboard not charging.
+186;Keyboard charging.
+187;Update data found.
+188;File open failed
+190;Volume at maximum
+192;Volume at minimum
+193;USB Disk is not ready!
+194;USB Disk is Write protected!
+200;Tab
+201;Backtab
+202;espacio
+210;Retroceso
+211;Nueva línea
+212;Corrección
+213;Linea de alimentación
+214;Línea inversa
+215;Expulsión de página
+216;Impresión en pausa
+218;Modo de 6 puntos
+219;Modo de 8 puntos
+220;Grabado cancelado
+1001;Eco de letra
+1002;Eco de la palabra
+1003;Eco de línea
+1004;Eco de la oración
+1005;Archivo
+1006;Monitor
+1007;Idioma
+1008;Sistema
+1009;Juegos
+1010;Relieve
+1011;Teclado
+1012;Habla
+1013;Configuración de traducción hacia adelante
+1014;Configuración de traducción hacia atrás
+1015;Formato
+1016;Configuración de página
+1017;encendido
+1018;apagado
+1019;Más alto
+1020;Más suave
+1021;Menú principal
+1022;Menú cancelado
+1023;Cerrar Mountbatten
+1024;Relieve la información de la versión
+1025;Control remoto
+1026;Configuraciones WiFi
+1027;Modo avanzado
+1028;Almacenar la configuración actual
+1029;Restaurar la configuración guardada
+1030;Actualizar dispositivo
+1031;Modo de una mano
+1032;Opciones de eco
+1033;Alternar la campana del margen derecho
+1034;Establecer línea de campana de fin de página
+1035;Habla sintética
+1036;Discurso grabado
+1037;Ningún discurso
+1038;Habla solo las indicaciones
+1039;Habla todas las teclas
+1054;Almacenar configuración de reenvío
+1055;Restaurar la configuración de reenvío
+1056;Restaurar la configuración de reenvío predeterminada
+1057;Conmutador de traducción hacia adelante en relieve
+1058;Alternar traducción básica
+1059;Establecer calificación de traducción avanzada
+1060;Alternar modo literal
+1061;Establecer sangría francesa
+1062;Suprimir líneas en blanco
+1063;Conjunto de sangría automática
+1064;Alternar eliminación de espacio múltiple
+1065;Alternar el modo de fracción
+1066;Alternar entrada de mayúsculas
+1067;Alternar guiones al final de la línea
+1068;Listas en
+1069;Listas fuera
+1070;Tabla con dos columnas de igual ancho
+1071;Activar / desactivar relieve
+1072;Alternar ajuste de palabra
+1073;Comandos en relieve
+1074;Forzar nueva página
+1075;Alternar el modo de gráficos
+1076;Relieve de golpe múltiple
+1077;Alternar modo rápido
+1078;Configuración de traducción común
+1079;Alternar modo UEB
+1080;Desarrolladores
+1081;Información del dispositivo
+1082;No inicie el módulo avanzado
+1083;Actualizar el cargador de arranque
+1084;Establecer margen izquierdo
+1085;Establecer margen derecho
+1086;Establecer el margen izquierdo en la posición de la cabeza
+1087;Establecer el margen derecho en la posición de la cabeza
+1088;Restablecer margen izquierdo
+1089;Restablecer margen derecho
+1090;Establecer margen superior
+1091;Establecer margen inferior
+1092;Restablecer margen superior
+1093;Restablecer margen inferior
+1094;Establecer el espaciado de línea
+1095;Establecer calificación de traducción hacia atrás
+1096;Conjunto de sangría automática
+1097;Alternar centro
+1098;Justificar alternar
+1099;Alternar alineación derecha
+1100;Alternar mayúsculas
+1101;Alternar el modo de fracción
+1102;Alternar modo literal
+1103;Alternar eliminación de espacio múltiple
+1104;Conjunto de espaciado de línea
+1105;Almacenar configuraciones hacia atrás
+1106;Restaurar la configuración anterior
+1107;Restaurar la configuración anterior predeterminada
+1108;Palanca de relieve centrada
+1109;Relieve justificado a la derecha
+1110;Memoria interna
+1111;Memoria USB
+1112;Realzar...
+1113;Abrir en editor...
+1114;Establecer memoria actual...
+1115;Fuentes pequeñas (8 líneas)
+1116;Fuentes estándar (4 líneas)
+1117;Fuentes grandes (3 líneas)
+1118;Abrir documento
+1119;Archivo nuevo
+1120;Salvar
+1121;Rebautizar
+1122;Proteger / Desproteger archivo
+1123;Reformatear
+1124;Salir del editor (Nueva línea + Q)
+1125;Dirección de búsqueda
+1126;Sensibilidad a mayúsculas y minúsculas de la búsqueda
+1127;Coincidencia de palabras
+1128;Buscar texto
+1129;Buscar y reemplazar texto
+1130;Reiniciar la última búsqueda
+1131;Comenzar bloque
+1132;Bloque final
+1133;Copiar bloque a la posición del cursor
+1134;Mover el bloque a la posición del cursor
+1135;Pegar bloque en la posición del cursor
+1136;Habla bloque
+1137;Eliminar bloque
+1138;Eliminar personaje actual
+1139;Eliminar palabra actual
+1140;Eliminar línea actual
+1141;Eliminar la página actual
+1142;Eliminar carácter anterior
+1143;Eliminar hasta el final de la palabra
+1144;Eliminar hasta el final de la línea
+1145;Restaurar la última eliminación
+1146;Tamaño de archivo
+1147;Espacio libre
+1148;¿Dónde estoy?
+1149;Del nuevo párrafo
+1150;Unir el párrafo actual y el siguiente
+1151;Eliminar saltos de página duros
+1152;Ir a la pagina
+1153;Ingrese el comando
+1154;Quita el mando
+1155;Restablecer la configuración de fábrica
+1156;Actualizar módulo avanzado
+1157;Tablas braille
+1158;Calendario
+1159;Configuración de fecha y hora
+1160;leer fecha y hora
+1161;Establecer fecha y hora
+1162;sincronizar fecha y hora
+1163;Inicio de MB-Comm
+1164;parada de comunicación MB
+1165;Llave maestra
+1166;Carrera de relevos de letras
+1167;Piano
+1168;Mostrar dirección de teclado
+1169;seleccionado
+1170;Establecer la posición de la campana del margen derecho
+1171;Restaurar la configuración predeterminada
+1172;Tamaño de fuente
+1173;Mostrar Braille
+1174;Mostrar texto
+1175;alternar
+1176;Modo simplificado
+1177;Más opciones
+1178;Eliminar archivo
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;Teclado USB conectado
+2001;Teclado USB desconectado
+2002;Memoria USB conectada
+2003;Memoria USB desconectada
+2004;El mouse USB no es compatible
+2005;Teclado apagado
+2006;Carga del teclado
+2007;Teclado completamente cargado
+2008;No hay memoria USB conectada
+2009;Inserte la unidad USB con la actualización y vuelva a intentarlo
+2010;Por favor espera.
+2011;Actualizando audio.
+2012;Actualizando la configuración.
+2013;Actualización de pantalla.
+2014;Actualización del sistema.
+2015;El dispositivo se reiniciará.
+2016;La memoria USB no contiene información de actualización.
+2017;Fuente de alimentación conectada
+2018;Fuente de alimentación desconectada
+2019;Cargando
+2020;Sin cargarse
+2021;Batería completamente cargada
+2022;Menú
+2023;Sonoridad mínima
+2024;Sonoridad máxima
+2025;El teclado no se carga
+2026;Actualización del cargador de arranque
+2027;Es necesario desconectar el teclado USB.
+2028;Desconecte el teclado USB.
+2029;Cargando idioma
+2030;Idioma cargado
+2031;Crear nuevo archivo en editor simple  
+2032;Abra el archivo existente en editor simple
+2033;Cerrar editor simple
+2034;Archivo de relieve terminado
+2035;Menú cerrado
+2036;Velocidad de estampado
+2037;El restablecimiento de fábrica se realizó correctamente.
+2038;Falló el restablecimiento de fábrica.
+2039;Sí
+2040;No
+2041;Se eliminarán todos los archivos y la configuración del usuario. ¿Está seguro?
+2042;Esta operación requiere reiniciar el dispositivo. ¿Quieres continuar?
+2043;Ingrese el comando
+2044;Comando cancelado
+2045;6 puntos
+2046;8 puntos
+2047;Ingrese un nuevo nombre de archivo:
+2048;Ingrese el nombre del archivo existente:
+2049;¡Creación de archivo cancelada!
+2050;Archivo abierto cancelado
+2051;Principio de línea
+2052;Fin de la línea
+2053;Fin de pagina
+2054;Principio de página
+2055;Ningún archivo abierto
+2056;El archivo ya está abierto. Primero cierre el archivo actual.
+2057;dot
+2058;dots
+2059;¿Estás seguro de que deseas actualizar el dispositivo?
+2060;Actualización del dispositivo cancelada
+2061;Número de serie
+2062;Versión de firmware
+2063;Versión del cargador de arranque
+2064;Mountbatten Tutor se cerrará en dos minutos
+2065;Cierre del tutor Mountbatten
+2066;No se encontró una versión de firmware más reciente
+2067;Restablecimiento de la configuración de fábrica cancelado
+2068;No hay archivos
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Inglés
+2201;Español
+2202;italiano
+2203;francés
+2204;polaco
+2205;sueco
+2206;noruego
+2207;holandés
+2208;portugués
+2209;alemán
+2300;Gran Bretaña
+2301;Estados Unidos
+2302;Canadá
+2303;Australia
+2304;España
+2305;México
+2306;Argentina
+2307;Polonia
+2308;Holanda
+2309;Portugal
+2310;Brasil
+2311;Alemania
+10000;Velocidad de estampado: %u
+10001;Batería del teclado: %u%%
+10002;Volumen: %u%%

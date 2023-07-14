@@ -1,0 +1,388 @@
+3;Svakt batteri
+4;Batteri OK
+5;Batteriet må lades
+6;Starten på linjen
+7;Slutten av linjen
+8;Slutten av siden
+9;Skrivehodet er blitt flyttet
+10;MB Tutor
+11;Ekko bokstav
+12;Ekko ord
+13;Ekko linje
+14;Skrivehodet er fastkjørt
+16;Systemfeil
+20;Venstre marg
+21;Lader
+22;Siste side
+25;OK
+29;Én-hånds modus
+30;Valg for ekko
+31;Lydsignal for høyre marg - veksler
+32;mellomrom
+33;utropstegn
+34;anførselstegn
+35;firkanttegn
+36;dollar
+37;prosent
+38;ett-tegn
+39;apostrof
+40;venstre parentes
+41;høyre parentes
+42;stjerne
+43;pluss
+44;komma
+45;minus
+46;punktum
+47;skråstrek
+48;null
+49;en
+50;to
+51;tre
+52;fire
+53;fem
+54;seks
+55;sju
+56;åtte
+57;ni
+58;kolon
+59;semikolon
+60;mindre enn
+61;er lik
+62;større enn
+63;spørsmålstegn
+64;krøllalfa
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+91;venstre hakeparentes
+92;skråstrek bakover
+93;høyre hakeparentes
+94;circumflex
+100;Slå lister på
+101;Papirutløser er åpen
+103;Feil
+104;Feil i kommando
+105;Inntastingsbufferet er fullt
+106;Innstilling gradering for konvertering bakover
+107;Midtstilt tekst (BCE) - veksler
+108;Justering (BPJ) - veksler
+109;Høyrejustering  (BRA) - veksler
+110;Kun store bokstaver - veksler
+111;Kommando
+112;Lagre innstilling for konvertering bakover
+113;Gjenopprette innstillinger for konvertering bakover
+114;Tom for papir
+115;Siste linje
+116;Høyrejustert trykking - veksler 
+117;Av
+118;På
+119;USB-minne
+120;God dag
+121;Velg minne som skal brukes
+122;Engelsk
+123;Polsk
+124;Små bokstaver (8 linjer)
+125;Vanlige bokstaver (4 linjer)
+126;Store bokstaver (3 linjer)
+127;korrigeringsplass
+128;Ny fil
+129;Lagre
+130;Filen finnes fra før
+200;Tab
+201;Backtab
+202;mellomrom
+210;Tilbake
+211;Ny linje
+212;Korreksjon
+213;Linjeskift
+214;Linje bakover
+215;Arket mates ut
+216;Trykking er satt på pause
+218;6 punkt modus
+219;8 punkt modus
+220;Trykking avbrutt
+324;stolpe
+1001;Ekko bokstav
+1002;Ekko ord
+1003;Ekko linje
+1004;Ekko setning
+1005;Fil
+1006;Display
+1007;Språk
+1008;System
+1009;Spill
+1010;Trykking
+1011;Tastatur
+1012;Opplesning
+1013;Innstillinger for Konvertering fremover
+1014;Innstillinger for Konvertering bakover
+1015;Format
+1016;Sideoppsett
+1017;på
+1018;av
+1019;Høyere
+1020;Lavere
+1021;Hovedmeny
+1022;Menyen ble avsluttet
+1023;Slå av MB Tutor
+1024;Trykke av versjons-info
+1025;Fjernstyring
+1026;WiFi-innstillinger
+1027;Avansert modus
+1028;Lagre gjeldende innstillinger
+1029;Gjenopprette lagrede innstillinger
+1030;Oppdatere enheten
+1031;Én-hånds modus
+1032;Valg for ekko
+1033;Lydsignal for høyre marg - veksler
+1034;Stille linjenummer for lydsignal for sideslutt
+1035;Talesyntese
+1036;Innspilte meldinger
+1037;Ingen opplesning
+1038;Opplesning kun for meldinger
+1039;Opplesning for alle taster
+1054;Lagre innstillinger for konvertering fremover
+1055;Gjenopprette innstillinger for konvertering fremover
+1056;Gjenopprette standardinnstillinger for konvertering fremover
+1057;Konvertering fremover og trykke - veksler
+1058;Enkel konvertering  - veksler
+1059;Innstillinger for gradering ved konvertering fremover
+1060;Samsvarende modus - veksler
+1061;Stille hengende innrykk
+1062;Utelate blanke linjer - veksler
+1063;Automatisk innrykk - veksler
+1064;Fjerning av gjentatte mellomrom - veksler
+1065;Brøk-modus - veksler
+1066;Stor bokstav inntasting - veksler
+1067;Bindestrek ved linjeslutt - veksler
+1068;Slå lister på
+1069;Slå lister av
+1070;Tabell med to like brede kolonner
+1071;Slå trykking AV/PÅ - veksler
+1072;WordWrap - veksler
+1073;Trykke kommandoer
+1074;Tvungen utmating av ark
+1075;Grafikk-modus - veksler
+1076;MultiStrike trykking
+1077;Hurtig-modus - veksler
+1078;Felles innstillinger for konvertering frem- og bakover
+1079;UEB-modus - veksler
+1080;For utviklere
+1081;Info om enheten
+1082;Ikke starte avansert modus
+1083;Oppdatere bootloader
+1084;Stille venstre marg
+1085;Stille høyre marg
+1086;Stille venstre marg til skrivehodets posisjon
+1087;Still inn høyre marg til skrivehodets posisjon
+1088;Tilbakestille venstre marg
+1089;Tilbakestille høyre marg
+1090;Stille inn toppmarg
+1091;Stille inn bunnmarg
+1092;Tilbakestille toppmarg
+1093;Tilbakestille bunnmarg
+1094;Stille inn linjeavstand
+1095;Innstilling gradering for konvertering bakover
+1096;Automatisk innrykk - veksler
+1097;Midtstilt tekst - veksler
+1098;Justering  - veksler
+1099;Høyrejustert tekst - veksler
+1100;Kun store bokstaver - veksler
+1101;Brøk-modus - veksler
+1102;Samsvarende modus - veksler
+1103;Fjerning av gjentatte mellomrom - veksler
+1104;Stille linjeavstand
+1105;Lagre innstillinger for konvertering bakover
+1106;Gjenopprette innstillinger for konvertering bakover
+1107;Gjenopprette standardinnstillinger for konvertering bakover
+1108;Midtstilt trykking - veksler
+1109;Høyrejustert trykking
+1110;Internt minne
+1111;USB-minne
+1112;Trykke....
+1113;Åpne i Editor...
+1114;Velg minneområde...
+1115;Små bokstaver (8 linjer)
+1116;Vanlige bokstaver (4 linjer)
+1117;Store bokstaver (3 linjer)
+1118;Åpne fil
+1119;Ny fil
+1120;Lagre
+1121;Gi nytt navn
+1122;Beskyttet / Ubeskyttet fil
+1123;Reformatere
+1124;Avslutte Editor (NY LINJE + Q)
+1125;Søkeretning
+1126;Samsvar for store og små bokstaver
+1127;Ord-samsvar
+1128;Søke etter
+1129;Søke og erstatte
+1130;Gjenta forrige søk
+1131;Starten av blokken
+1132;Slutten av blokken
+1133;Kopiér blokken inn på markørposisjonen
+1134;Flytt blokken til markørposisjonen
+1135;Lime inn blokken på markørposisjonen
+1136;Opplesning av blokken
+1137;Slette blokken
+1138;Slette gjeldende bokstav
+1139;Slette gjeldende ord
+1140;Slette gjeldende linje
+1141;Slette gjeldende side
+1142;Slette forrige bokstav
+1143;Slette til enden av ordet
+1144;Slette til enden av linjen
+1145;Angre forrige sletting
+1146;Filstørrelse
+1147;Ledig minne
+1148;Hvor er jeg?
+1149;Sett inn nytt avsnitt
+1150;Slå sammen gjeldende og forrige avsnitt
+1151;Slette tvungne sideskift
+1152;Hopp til side
+1153;Tast inn kommando
+1154;Fjerne kommandoen
+1155;Tilbakestill til fabrikkinnstillinger
+1156;Oppdatere avansert modul
+1157;Punktskrift
+1158;Kalender
+1159;Innstillinger for dato og klokkeslett
+1160;Les dato og klokkeslett
+1161;Angi dato og klokkeslett
+1162;Synkroniser dato og klokkeslett
+1163;MB-Comm start
+1164;MB-Comm stopp
+1165;Taste-mester
+1166;Ordstafett
+1167;Enkelt piano
+1168;Vis tastaturadresse
+1169;valgt
+1170;Still inn klokkeposisjon for høyre marg
+1171;Gjenopprett standardinnstillinger
+1172;Skriftstørrelse
+1173;Vise punktskrift
+1174;Vise tekst
+1175;veksler
+2000;USB-tastatur tilkoblet
+2001;USB-tastatur ikke tilkoblet
+2002;USB-minne tilkoblet
+2003;USB-minne ikke tilkoblet
+2004;USB-mus støttes ikke
+2005;Tastaturet er avslått
+2006;Tastaturet lades
+2007;Tastaturet er fullt oppladet.
+2008;USB-minne ikke tilkoblet.
+2009;Koble til USB-minne med oppdaterings-filer og prøv igjen.
+2010;Vent litt.
+2011;Oppdaterer audio.
+2012;Oppdaterer innstillinger.
+2013;Oppdaterer display.
+2014;Oppdaterer systemet.
+2015;Enheten startes på nytt.
+2016;Fant ingen oppdaterings-filer på USB-minnet.
+2017;Strømforsyning tilkoblet
+2018;Strømforsyning ikke tilkoblet
+2019;Lader
+2020;Lader ikke
+2021;Batteri fullt oppladet
+2022;Meny
+2023;Lydstyrke på minimum
+2024;Lydstyrke er på maksimum
+2025;Tastaturet lades ikke
+2026;Oppdaterer bootloader
+2027;USB-tastaturet må kobles fra.
+2028;Vær snill og koble fra USB-tastaturet.
+2029;Laster inn språket
+2030;Språket ble lastet inn
+2031;Opprette en ny fil i enkel Editor 
+2032;Åpne eksisterende fil i enkel Editor
+2033;Avslutte enkel Editor
+2034;Trykking av fil er avsluttet
+2035;Menyen stengt
+2036;Trykkehastighet
+2037;Gjenopprette standardinnstillinger OK.
+2038;Fabrikkinnstilling mislyktes.
+2039;Ja
+2040;Nei
+2041;Alle brukerinnstillinger og filer blir slettet. Er du sikker?
+2042;Denne operasjonen krever omstart av enheten. Vil du fortsette?
+2043;Skriv inn kommando
+2044;Kommandoen er avbrutt
+2045;6-punkt
+2046;8-punkt
+2047;Skriv inn nytt filnavn:
+2048;Skriv inn eksisterende filnavn:
+2049;Opprettelsen av filen er avbrutt!
+2050;Filåpningen er avbrutt
+2051;Begynnelsen på linjen
+2052;Slutten på linjen
+2053;Slutten på siden
+2054;Begynnelsen på siden
+2055;Ingen fil er åpnet
+2056;Filen er allerede åpen. Lukk gjeldende fil først.
+2057;punkt
+2058;punkt
+2059;Er du sikker på at du vil oppdatere enheten?
+2060;Enhetsoppdatering avbrutt
+2061;Serienummer
+2062;Fastvareversjon
+2063;Bootloader-versjon
+2064;MB Tutor slås av om to minutter
+2065;MB Tutor slås av
+2066;Finner ingen nyere fastvareversjon
+2067;Gjenopprette standardinnstillinger avbrutt
+2068;Ingen filer
+2200;Engelsk
+2201;Spansk
+2202;Italiensk
+2203;Fransk
+2204;Polsk
+2205;Svensk
+2206;Norsk
+2207;Nederlandsk
+2208;Portugisisk
+2209;tysk
+2300;Storbritannia
+2301;U S A
+2302;Canada
+2303;Australia
+2304;Spania
+2305;Mexico
+2306;Argentina
+2307;Polen
+2308;Nederland
+2309;Portugal
+2310;Brasil
+2311;Tyskland
+10000;Trykkehastighet: %u
+10001;Tastaturbatteri: %u%%
+10002;Lydstyrke: %u%%
+90000;å
+90001;Å
+90002;æ
+90003;Æ
+90004;ø
+90005;Ø

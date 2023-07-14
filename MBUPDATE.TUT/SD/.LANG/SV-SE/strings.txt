@@ -1,0 +1,401 @@
+3;Svagt batteri
+4;Batteri OK
+5;Ladda batteriet
+6;Början av raden
+7;Slut på raden
+8;Slut på sidan
+9;Punktskriftshuvudet rörde sig
+10;Mountbatten Brailler Tutor
+11;Eko tecken
+12;Eko ord
+13;Eko rad
+14;Punktskriftshuvudet har fastnat
+16;Systemfel
+20;Vänster marginal
+21;Laddar
+22;Slut på sida
+25;OK
+29;Enhandsläge
+30;Ekoinställning
+31;Växla mellan höger marginal
+32;mellanslag
+33;utropstecken
+34;citattecken
+35;siffertecken
+36;dollar
+37;procent
+38;ettecken
+39;apostrof
+40;hakparantes vänster
+41;hakparantes höger
+42;asterisk
+43;plus
+44;komma
+45;minus
+46;punkt
+47;snedstreck
+48;0
+49;1
+50;2
+51;3
+52;4
+53;5
+54;6
+55;7
+56;8
+57;9
+58;kolon
+59;semikolon
+60;mindre än
+61;likhetstecken
+62;större än
+63;frågetecken
+64;snabel-a
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+91;Ställ in konverteringsnivå
+92;Litterärt läge På/Av
+93;Ställ hängande indrag
+94;Borttagning upprepade rader
+95;Inställning automatiskt indrag
+96;Borttagning upprepade mellanslag På/Av
+97;Bråktal På/Av
+98;Versal På/Av
+99;Bindestreck i slutet av raden På/Av
+100;Listor på
+101;Pappersregel upp
+102;Tabell med två likvärdiga kolumner
+103;Fel
+104;Fek kommando
+105;Indatabufferten full
+106;Ställ in konverteringsnivå
+107;Centrering På/Av
+108;Justera På/Av
+109;Högerjustering På/Av
+110;Versal På/Av
+111;Kommando
+112;Spara konverteringsinställningar
+113;Återställa konverteringsinställningar
+114;Slut på papper
+115;Senaste raden
+116;Högerjusterad utskrift 
+117;Inga filer
+118;Internt minne
+119;USB-minne
+120;Hejsan
+121;Indrag
+122;Hjälp
+123;Slut
+124;Tillägg
+125;Borttagen
+127;Korrigeringsutrymme
+128;Inga filer
+130;Duplicerad fil
+200;Tabb
+201;Bakåt tabb
+202;mellanslag
+210;Backsteg
+211;Ny rad
+212;Korrektion
+213;Radmatning
+214;Omvänd linje
+215;Mata ut sidan
+216;Utskrift pausad
+218;Läge med 6 punkter
+219;8 punkter läge
+220;Utskrift avbruten
+324;vertikal stapel
+1001;Eko tecken
+1002;Eko ord
+1003;Eko rad
+1004;Läs mening
+1005;Ordbehandlare
+1006;Display
+1007;Språk
+1008;System
+1009;Spel
+1010;Skriv ut
+1011;Tangentbord
+1012;Tal
+1013;Skicka text till MB Tutor
+1014;Skicka text från MB Tutor
+1015;Format
+1016;Sidlayout
+1017;på
+1018;av
+1019;Högre
+1020;Lägre
+1021;Huvudmeny
+1022;Gå ur menyn
+1023;Stäng av Mountbatten
+1024;Skriv ut versionsinformation
+1025;Fjärrkontroll
+1026;WiFi-inställningar
+1027;Avancerat läge
+1028;Spara aktuella inställningar
+1029;Återställ sparade inställningar
+1030;Uppdatera enhet
+1031;Enhandsläge
+1032;Ekoalternativ
+1033;Signal för högermarginal
+1034;Ställ in signal för sidslut
+1035;Syntetiskt tal
+1036;Inspelat tal
+1037;Inget tal
+1038;Endast läs upp prompter
+1039;Läs upp alla tangenter
+1054;Spara aktuella inställningar
+1055;Återställ konverteringsinställningar
+1056;Återställ till fabriksinställning
+1057;Skicka text för konvertering På/Av
+1058;Grundkonvertering På/Av
+1059;Ställ in konverteringsnivå
+1060;Litterärt läge På/Av
+1061;Ställ hängande indrag
+1062;Borttagning upprepade rader
+1063;Automatisk indragsinställning
+1064;Borttagning upprepade mellanslag På/Av
+1065;Bråktal På/Av
+1066;Versal På/Av
+1067;Bindestreck i slutet av raden På/Av
+1068;Listor på
+1069;Listor av
+1070;Tabell med två kolumner med samma bredd
+1071;Utskrift På/Av
+1072;Växla mellan radbrytning
+1073;Utskriftskommando
+1074;Tvinga fram ny sida
+1075;Grafikläge På/Av
+1076;Utskrift med flera tillslag
+1077;Snabbläge På/Av
+1078;Vanliga inställningar
+1079;UEB läge
+1080;Tillverkare
+1081;Enhetsinformation
+1082;Starta inte avancerad modul
+1083;Uppdatera Startsekvens
+1084;Ställ in vänster marginal
+1085;Ställ in höger marginal
+1086;Ställ vänstermarginal vid skrivarhuvudet
+1087;Ställ högermarginal vid skrivarhuvudet
+1088;Återställ vänstermarginal
+1089;Återställ högermarginal
+1090;Ställ in toppmarginal
+1091;Ställ in bottenmarginal
+1092;Återställ toppmarginalen
+1093;Återställ bottenmarginal
+1094;Ange radavstånd
+1095;Ställ in konverteringsnivå
+1096;Inställning automatiskt indrag
+1097;Centrering
+1098;Justera
+1099;Högerjustering
+1100;Versal
+1101;Bråktal
+1102;Litterärt läge
+1103;Borttagning upprepade mellanslag
+1104;Inställning radavstånd
+1105;Spara konverteringsinställningar
+1106;Återställ konverteringsinställningar
+1107;Återställ till fabriksinställning
+1108;Centrerad utskrift
+1109;Högerjusterad utskrift
+1110;Internt minne
+1111;USB-minne
+1112;Skriv ut.
+1113;Öppna i ordbehandlare.
+1114;Ställ in aktuellt minne...
+1115;Litet teckensnitt (8 rader)
+1116;Normalt teckensnitt (4 rader)
+1117;Stort teckensnitt (3 rader)
+1118;Öppna fil
+1119;Ny fil
+1120;Spara
+1121;Byt namn
+1122;Skydda/ta bort skydd av fil
+1123;Formatera
+1124;Avsluta
+1125;Sökriktning
+1126;Sök efter exakt matchning
+1127;Matchning av ord
+1128;Söka efter text
+1129;Söka efter och ersätta text
+1130;Starta om senaste sökningen
+1131;Början på avsnitt
+1132;Slut på avsnitt
+1133;Kopiera avsnitt till markörens position
+1134;Flytta avsnitt till markörens position
+1135;Klistra in avsnitt vid markörens position
+1136;Läs upp avsnitt
+1137;Radera avsnitt
+1138;Radera aktuellt tecken
+1139;Radera aktuellt ord
+1140;Radera aktuell rad
+1141;Radera aktuell sida
+1142;Radera föregående tecken
+1143;Radera till slutet av ordet
+1144;Radera till slutet av raden
+1145;Ångra senaste borttagning
+1146;Filens storlek
+1147;Ledigt utrymme
+1148;Var är jag?
+1149;Starta nytt stycke
+1150;Gå med i aktuellt och nästa stycke
+1151;Ta bort hårda sidbrytningar
+1152;Gå till sida
+1153;Enter
+1154;Raderakommando
+1155;Återställ till fabriksinställningar
+1156;Uppdatera avancerad modul
+1157;Punktskriftstabell
+1158;Kalender
+1159;Justera Datum och tid
+1160;Läs datum och tid
+1161;Ställ in datum och tid
+1162;Synkronisera datum och tid
+1163;Starta MB-Comm
+1164;Avsluta MB-Comm
+1165;Key master
+1166;Bokstavsstafett
+1167;Enkel synt
+1168;Visa tangentbordets adress
+1169;vald
+1170;Ställ in högermarginalklockposition
+1171;Återställ standardinställningar
+1172;Teckenstorlek
+1173;Visa punktskrift
+1174;Visa text
+1175;växla
+1176;Förenklat läge
+1177;Fler alternativ
+1178;Ta bort filen
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;USB-tangentbord anslutet
+2001;USB-tangentbord frånkopplat
+2002;USB-minne anslutet
+2003;USB-minne bortkopplat
+2004;USB-mus stöds inte
+2005;Tangentbord avstängt
+2006;Tangentbord laddas
+2007;Tangentbord fulladdat.
+2008;USB-minne anslutet.
+2009;Sätt in uppdaterings-USB och försök igen.
+2010;Vänligen vänta.
+2011;Uppdaterar ljud.
+2012;Uppdaterar inställningar.
+2013;Uppdaterar displayen.
+2014;Uppdaterar systemet.
+2015;Enheten startas om.
+2016;USB-minne saknar uppdateringsinformation.
+2017;Strömförsörjning ansluten
+2018;Strömförsörjning frånkopplad
+2019;Laddar
+2020;Laddar inte
+2021;Batteriet fulladdat
+2022;Meny
+2023;Lägst volym
+2024;Maxolym
+2025;Tangentbord laddas inte
+2026;Uppdatera bootsekvens
+2027;USB-tangentbordet måste kopplas ifrån.
+2028;Koppla bort USB-tangentbordet.
+2029;Läser in språk
+2030;Språk laddat
+2031;Skapa ny fil 
+2032;Öppna befintlig fil
+2033;Stäng Ordbehandlare
+2034;Utskriftsfil klar
+2035;Menyn är stängd
+2036;Prägling hastighet
+2037;Fabriksåterställning lyckades.
+2038;Fabriksåterställning misslyckades.
+2039;Ja
+2040;Nej
+2041;Alla användarinställningar och filer raderas. Är du säker?
+2042;Denna åtgärd kräver att enheten startas om. Vill du fortsätta?
+2043;Ange kommando
+2044;Kommandot avbrutet
+2045;6 punkter
+2046;8 punkter
+2047;Ange nytt filnamn:
+2048;Ange befintligt filnamn:
+2049;Skapad fil avbruten!
+2050;Filöppning avbruten
+2051;Början på raden
+2052;Slut på rad
+2053;Slut på sidan
+2054;Överst på sidan
+2055;Ingen fil öppnad
+2056;Filen är redan öppen. Stäng den aktuella filen först.
+2057;punkt
+2058;prickar
+2059;Är du säker på att du vill uppdatera enheten?
+2060;Enhetsuppdatering avbruten
+2061;Serienummer
+2062;Firmwareversion
+2063;Bootloader-version
+2064;Mountbatten Tutor stänger om två minuter
+2065;Avsluta Mountbatten Tutor
+2066;Ingen nyare firmwareversion hittades
+2067;Återställning till fabriksinställningar avbröts
+2068;Inga filer
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Engelska
+2201;Spanska
+2202;Italienska
+2203;Franska
+2204;Polska
+2205;Svenska
+2206;Norska
+2207;Holländska
+2208;Portugisiska
+2209;Tyskt
+2300;Storbritannien
+2301;USA
+2302;Kanada
+2303;Australien
+2304;Spanien
+2305;Mexiko
+2306;Argentina
+2307;Polen
+2308;Nederländerna
+2309;Portugal
+2310;Brasilien
+2311;Tyskland
+10000;Skrivhastighet: %u
+10001;Batterinivå tangentbord: %u%%
+10002;Volym: %u%%
+90000;å
+90001;Å
+90002;ä
+90003;Ä
+90004;ö
+90005;Ö

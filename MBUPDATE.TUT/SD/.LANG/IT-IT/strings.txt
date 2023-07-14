@@ -1,0 +1,399 @@
+3;Batteria scarica
+4;Batteria OK
+5;Caricare la batteria
+6;Inizio riga
+7;Fine riga
+8;Fine pagina
+9;Testina di stampa spostata
+10;Mountbatten Braille Tutor
+11;Carattere
+12;Parola
+13;Linea
+14;Testina di stampa inceppata
+16;Errore di sistema
+20;Margine sinistro
+21;Carica
+22;Fine pagina
+25;OK
+29;Modalità una mano
+30;Opzioni spostamento
+31;Imposta margine destro
+32;spazio
+33;punto esclamativo
+34;virgolette
+35;segna numero
+36;dollaro
+37;percento
+38;e commerciale
+39;apostrofo
+40;aperta parentesi tonda
+41;chiusa parentesi tonda
+42;asterisco
+43;più
+44;virgola
+45;meno
+46;punto
+47;barra
+48;zero
+49;uno
+50;due
+51;tre
+52;quattro
+53;cinque
+54;sei
+55;sette
+56;otto
+57;nove
+58;due punti
+59;punto e virgola
+60;minore di
+61;uguale
+62;maggiore di
+63;punto interrogativo
+64;chiocciola
+65;a
+66;b
+67;c
+68;d
+69;e
+70;f
+71;g
+72;h
+73;i
+74;j
+75;k
+76;l
+77;m
+78;n
+79;o
+80;p
+81;q
+82;r
+83;s
+84;t
+85;u
+86;v
+87;w
+88;x
+89;y
+90;z
+100;Tasto invio
+101;Leva della carta sollevata
+103;Errore
+104;errore comando
+105;memoria piena 
+106;Imposta il grado di traduzione
+107;Attiva/Disattiva allineamento centrato
+108;Attiva/Disattiva allineamento giustificato (BPJ) 
+109;Attiva/Disattiva allineamento a destra (BRA)
+110;Attiva/Disattiva tutto maiuscolo
+111;Comando
+112;Salva impostazioni di traduzione
+113;Ripristina impostazioni di traduzione 
+114;Carta esaurita
+115;Ultima riga
+116;Stampa allineato a destra
+117;disattivato
+118;attivato
+119;Memoria USB
+120;Ciao!
+121;Rientro
+122;Aiuto
+123;Fine
+124;Aggiungi
+125;Cancellato
+127;Correggi con uno Spazio
+128;Nessun file
+130;Duplica file 
+200;Tab
+201;Tab a sinistra
+202;Spazio
+210;Backspace
+211;Nuova riga
+212;Correzione
+213;Avanzamento riga
+214;Riga precedente
+215;Espulsione pagina
+216;Stampa in pausa
+218;Modalità 6 punti
+219;Modalità 8 punti
+220;Stampa annullata
+324;barra verticale
+1001;Carattere
+1002;Parola
+1003;Riga
+1004;Frase
+1005;File
+1006;Display
+1007;Lingua
+1008;Sistema
+1009;Giochi
+1010;Stampa
+1011;Tastiera
+1012;Voce
+1013;Impostazioni di traduzione diretta
+1014;Impostazioni di traduzione inversa
+1015;Formato
+1016;Impostazioni pagina
+1017;attivato
+1018;disattivato
+1019;Più forte
+1020;Meno forte
+1021;Menù principale
+1022;Menù chiuso 
+1023;Spegni Mountbatten
+1024;Informazione sulla versione della stampante
+1025;Controllo remoto
+1026;Impostazioni Wi-Fi
+1027;Modalità avanzata
+1028;Salva le impostazioni correnti
+1029;Ripristina le impostazioni salvate 
+1030;Aggiorna dispositivo
+1031;Modalità una mano
+1032;Opzioni Voce
+1033;Avviso margine destro
+1034;Imposta riga di fine pagina
+1035;Sintesi vocale
+1036;Voce registrata
+1037;Disattiva voce
+1038;Vocalizza solo menù e messaggi
+1039;Vocalizza tutti i tasti
+1054;Salva le impostazioni
+1055;Ripristina le impostazioni salvate
+1056;Ripristina le impostazioni predefinite
+1057;Attiva/Disattiva traduzione diretta
+1058;Attiva/Disattiva traduzione base 
+1059;Imposta il grado di traduzione diretta 
+1060;Attiva/Disattiva modalità letterale 
+1061;Imposta rientro riga
+1062;Elimina righe vuote
+1063;Imposta rientro riga automatico
+1064;Attiva/Disattiva rimozione spazi multipli
+1065;Attiva/Disattiva modalità frazione
+1066;Attiva/Disattiva tutto maiuscolo
+1067;Attiva/Disattiva trattini a fine riga
+1068;Elenchi attivati
+1069;Elenchi disattivati
+1070;Tabella con due colonne di uguale larghezza 
+1071;Attiva/Disattiva Stampa
+1072;Attiva/Disattiva a capo automatico
+1073;Stampa comandi
+1074;Espelli pagina
+1075;Attiva/Disattiva modalità grafica
+1076;Stampa multi impatto
+1077;Attiva/Disattiva modalità veloce
+1078;Impostazioni di traduzione comuni
+1079;Attiva / disattiva la modalità UEB 
+1080;Sviluppatori 
+1081;Informazioni sul dispositivo
+1082;Non avviare il modulo avanzato
+1083;Aggiorna bootloader
+1084;Imposta margine sinistro
+1085;Imposta margine destro
+1086;Imposta margine sinistro sulla posizione della testina
+1087;Imposta margine destro sulla posizione della testina
+1088;Ripristina margine sinistro 
+1089;Ripristina margine destro 
+1090;Imposta margine superiore
+1091;Imposta margine inferiore
+1092;Ripristina margine superiore
+1093;Ripristina margine inferiore
+1094;Imposta interlinea
+1095;Imposta il grado di traduzione
+1096;Imposta rientro riga automatico
+1097;Attiva/Disattiva allineamento centrato
+1098;Attiva/Disattiva allineamento giustificato
+1099;Attiva/Disattiva allineamento a destra
+1100;Attiva/Disattiva tutto maiuscolo
+1101;Attiva/Disattiva modalità frazione
+1102;Attiva/Disattiva modalità letterale
+1103;Attiva/Disattiva rimozione spazi multipli
+1104;Imposta interlinea
+1105;Salva le impostazioni di traduzione
+1106;Ripristina impostazioni salvate
+1107;Ripristina impostazioni di traduzione predefinite
+1108;stampa centrato
+1109;Stampa allineato a destra
+1110;Memoria interna 
+1111;memoria USB
+1112;Stampa...
+1113;Apri in Editor
+1114;Imposta memoria corrente 
+1115;Caratteri piccoli (8 righe)
+1116;Caratteri standard (4 righe) 
+1117;Caratteri grandi (3 righe) 
+1118;Apri file
+1119;Nuovo file
+1120;Salva
+1121;Rinomina
+1122;Proteggi / Rimuovi protezione file
+1123;Riformatta
+1124;Esci dall'Editor (Invio + Q)
+1125;Direzione di ricerca 
+1126;Distinzione tra maiuscole e minuscole
+1127;Parole intere
+1128;Cerca testo 
+1129;Cerca e sostituisci testo 
+1130;Ripeti l'ultima ricerca
+1131;Inizio selezione
+1132;Fine selezione
+1133;Copia la selezione nella posizione del cursore
+1134;Sposta la selezione nella posizione del cursore
+1135;Incolla la selezione nella posizione del cursore
+1136;Leggi la selezione
+1137;Cancella la selezione
+1138;Cancella carattere corrente
+1139;Cancella parola corrente
+1140;Cancella riga corrente
+1141;Cancella pagine corrente
+1142;Cancella il carattere precedente
+1143;Cancella fino alla fine della parola
+1144;Cancella fino alla fine della riga
+1145;Ripristina l'ultima cancellazione
+1146;Dimensione del file
+1147;Spazio libero
+1148;Dove sono?
+1149;scheda nuovo paragrafo
+1150;Unisci il paragrafo corrente con quello successivo
+1151;Cancella interruzioni di pagina
+1152;Vai alla pagina
+1153;Inserisci comando
+1154;togli il comando
+1155;Ripristina impostazioni predefinite
+1156;Aggiorna modulo avanzato
+1157;Tabelle Braille
+1158;Calendario
+1159;Impostazioni data e ora
+1160;Leggi data e ora
+1161;Imposta data e ora
+1162;Sincronizza data e ora
+1163;Avvio MB-Comm
+1164;Chiusura MB-Comm
+1165;Mago della tastiera
+1166;Staffetta delle lettere
+1167;Pianoforte
+1168;Mostra indirizzo tastiera
+1169;selezionato
+1170;Imposta la posizione della campana del margine destro
+1171;Ripristina impostazioni predefinite
+1172; Dimensione carattere
+1173;Mostra Braille
+1174;Mostra testo
+1175;commutazione
+1176;Modalità semplificata
+1177;Altre opzioni
+1178;Cancellare il file
+1179;Show hardware address (MAC address)
+1180;WiFi network
+2000;Tastiera USB collegata
+2001;Tastiera USB scollegata
+2002;Memoria USB collegata
+2003;memoria USB scollegata
+2004;Mouse USB non supportato
+2005;Tastiera spenta
+2006;Tastiera in carica
+2007;Tastiera carica
+2008;Nessuna memoria USB collegata
+2009;Inserisci la chiavetta USB con l'aggiornamento e riprova
+2010;Attendere
+2011;Aggiornamento audio
+2012;Impostazioni di aggiornamento
+2013;Aggiornamento display
+2014;Aggiornamento sistema
+2015;Il dispositivo sarà riavviato
+2016;La memoria USB non contiene informazioni sull'aggiornamento
+2017;Alimentatore collegato
+2018;Alimentatore scollegato
+2019;In carica
+2020;Non in carica
+2021;Carica completata
+2022;Menù
+2023;Volume al minimo
+2024;Volume al massimo
+2025;Tastiera non in carica
+2026;Aggiorna Bootloader
+2027;La tastiera USB deve essere disconnessa
+2028;Scollegare la tastiera USB
+2029;Caricamento della lingua
+2030;Lingua caricata
+2031;Crea nuovo file nell'Editor
+2032;Apri file nell'Editor
+2033;Chiudi Editor
+2034;Stampa del file completata
+2035;Menù chiuso
+2036;Velocità di stampa
+2037;Ripristino delle impostazioni predefinite riuscito.
+2038;Ripristino delle impostazioni predefinite non riuscito.
+2039;Sì
+2040;No
+2041;Tutte le impostazioni e i file dell'utente verranno eliminati. Sei sicuro?
+2042;Questa operazione richiede il riavvio del dispositivo. Vuoi continuare?
+2043;Inserisci il comando
+2044;Comando annullato
+2045;6 punti
+2046;8 punti
+2047;Inserisci il nuovo nome del file:
+2048;Inserisci il nome del file esistente:
+2049;Creazione del file annullata!
+2050;Apertura file annullata
+2051;Inizio riga
+2052;Fine riga
+2053;Fine pagina
+2054;Inizio pagina
+2055;Nessun file aperto
+2056;File già aperto. Si prega di chiudere prima il file corrente.
+2057;punto
+2058;punti
+2059;Sei sicuro di voler aggiornare il dispositivo?
+2060;Aggiornamento dispositivo annullato
+2061;Numero di serie
+2062;Versione firmware
+2063;Versione bootloader
+2064;Mountbatten Tutor chiuderà tra due minuti
+2065;Tutor Mountbatten di chiusura
+2066;Nessuna versione firmware più recente trovata
+2067;Ripristino delle impostazioni di fabbrica annullato
+2068;Nessun file
+2069;Print file using translation
+2070;Print file without translation
+2071;Print settings
+2072;Print...
+2200;Inglese
+2201;Spagnolo
+2202;Italiano
+2203;Francese
+2204;Polacco
+2205;Svedese
+2206;Norvegese
+2207;Olandese
+2208;Portoghese
+2209;tedesco
+2300;Gran Bretagna 
+2301;Stati Uniti 
+2302;Canada
+2303;Australia
+2304;Spagna
+2305;Messico
+2306;Argentina
+2307;Polonia
+2308;Olanda
+2309;Portogallo
+2310;Brasile
+2311;Germania
+10000;Velocità di stampa: %u
+10001;Batteria della tastiera: %u%%
+10002;Volume: %u%%
+90000;é
+90001;É
+90002;à
+90003;À
+90004;è
+90005;È
+90006;ù
+90007;Ù
+90008;ì
+90009;Ì
+90010;ò
+90011;Ò
+90012;ó
+90013;Ó
